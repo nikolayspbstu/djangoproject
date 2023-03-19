@@ -1,0 +1,75 @@
+body{
+    background: white;
+}
+aside{
+    float:left;
+    background: #fff;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: black;
+    border-right:5px solid #4d4d4d
+}
+aside ul li{
+    font-weight: bold;
+}
+
+aside img{
+    width: 150px;
+    float:left;
+
+}
+
+aside h3{
+    margin-top: 180px;
+    font-size: 30px;
+
+}
+
+aside ul li{
+    color:black;
+    display: block;
+    margin-top: 8px;
+    transition: all .6s ease;
+    margin-left: -20px;
+}
+
+
+aside ul li:hover{
+    color: red;
+    text-decoration: none;
+    transform: scale(1.05);
+
+}
+
+aside ul a{
+    text-decoration: none;
+}
+
+main .GGT{
+    text-align: center;
+
+}
+
+main .home-page{
+    background: #f5f5f5;
+    height: 75vh;
+
+    margin-left: 400px;
+    margin-right: 50px;
+
+}
+main .home-text{
+    position: relative;
+    top: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: normal;
+}
+main .university{
+    position: relative;
+    margin-top: 13px;
+    text-align: center;
+
+}
