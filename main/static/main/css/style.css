@@ -66,10 +66,18 @@ main .home-text{
     margin-left: 50px;
     margin-right: 50px;
     font-weight: normal;
+    font-size: 22px;
+
+
 }
 main .university{
     position: relative;
-    margin-top: 13px;
-    text-align: center;
+    margin-top: 20px;
+    text-align:;
 
+}
+
+main .test-page{
+    color: red;
+    text-align: center;
 }
