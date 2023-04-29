@@ -1,52 +1,326 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-    <!-- wp:image {"align":"wide","id":46,"sizeSlug":"full","linkDestination":"none","style":{"border":{"width":"0px","style":"none"}}} -->
-    <figure class="wp-block-image alignwide size-full has-custom-border"><img src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/aero-logo-section-1.jpg" alt="" class="wp-image-46" style="border-style:none;border-width:0px"/></figure>
-    <!-- /wp:image -->
+{% extends 'main/layout.html' %}
+ {% block content %}
+		<div class="container">
 
-    <!-- wp:separator {"backgroundColor":"base","className":"is-style-wide"} -->
-    <hr class="wp-block-separator has-text-color has-base-color has-alpha-channel-opacity has-base-background-color has-background is-style-wide" id="1.1"/>
-    <!-- /wp:separator -->
 
-    <!-- wp:separator {"className":"is-style-wide"} -->
-    <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
-    <!-- /wp:separator -->
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/smirnov.jpg alt="Преподаватель">
+						<h3>Смирнов Евгений Михайлович </h3>
+						<p>д.ф.-м.н. профессор научный руководитель магистерской программы &quot;Модели и высокопроизводительные вычисления в физической гидрогазодинамике&quot;</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
 
-    <!-- wp:cover {"overlayColor":"white","isDark":false,"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-    <div class="wp-block-cover is-light" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><span aria-hidden="true" class="wp-block-cover__background has-white-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group -->
-    <div class="wp-block-group"><!-- wp:paragraph -->
-    <p><strong>ПРОФЕССОРСКО-ПРЕПОДАВАТЕЛЬСКИЙ СОСТАВ</strong></p>
-    <!-- /wp:paragraph -->
 
-    <!-- wp:table {"hasFixedLayout":true,"align":"wide","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"typography":{"fontSize":"10.5px"}},"backgroundColor":"white","textColor":"black","className":"is-style-stripes","fontFamily":"system-font"} -->
-    <figure class="wp-block-table alignwide is-style-stripes has-system-font-font-family" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:10.5px"><table class="has-black-color has-white-background-color has-text-color has-background has-fixed-layout"><tbody><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-112" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/smirnov-1.jpg" alt=""> </td><td>СМИРНОВ Евгений Михайлович,<br>д.ф.-м.н., профессор, научный руководитель магистерской программы "Модели и высокопроизводительные вычисления в физической гидрогазодинамике"<br><a href="http://aeroggt.spb.ru/смирнов/">Публикации</a>&nbsp;<a href="mailto:aero@phmf.spbstu.ru?subject=%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D1%83%20%D0%95.%D0%9C.">E-mail</a></td><td><img class="wp-image-129" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/иванов.png" alt=""></td><td class="has-text-align-left" data-align="left">ИВАНОВ Николай Георгиевич,<br>к.ф.-м.н., доцент, директор высшей школы<br><a href="http://aeroggt.spb.ru/иванов/">Публикации</a>&nbsp;<a href="mailto:ivanov_ng@spbstu.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-128" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/zajtsev-2.jpg" alt=""></td><td>ЗАЙЦЕВ Дмитрий Кириллович,<br>д.ф.-м.н., профессор<br><a href="http://aeroggt.spb.ru/зайцев/">Публикации</a>&nbsp;<a href="mailto:zaitsev-aero@yandex.ru">E-mail</a></td><td><img class="wp-image-196" style="width: 150px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Китанина.png" alt=""></td><td class="has-text-align-left" data-align="left">КИТАНИНА Екатерина Эдуардовна,&nbsp;<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/китанина-2/">Публикации</a>&nbsp;<a href="mailto:kitanina_ee@spbstu.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-175" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/pashkevich-2.jpg" alt=""></td><td>ПАШКЕВИЧ Дмитрий Станиславович,<br>д.т.н., профессор, научный руководитель магистерской программы "Экспериментальная и вычислительная теплофизика"<br><a href="http://aeroggt.spb.ru/пашкевич/">Публикации</a>&nbsp;<a href="mailto:pashkevich-ds@spbstu.ru">E-mail</a></td><td><img class="wp-image-197" style="width: 120px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Колесник.png" alt=""></td><td class="has-text-align-left" data-align="left">КОЛЕСНИК Елизавета Владимировна,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/колесник-2/">Публикации</a>&nbsp;<a href="mailto:kolesnik.ev1@spbstu.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-206" style="width: 114px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Стрелец.png" alt=""></td><td>СТРЕЛЕЦ Михаил Хаймович,<br>д.ф.-м.н., профессор,<br>СПбПУ, лаборатория "Вычислительная гидроаэроакустика и турбулентность", зав. лабораторией<br><a href="http://aeroggt.spb.ru/стрелец-2/">Публикации</a>&nbsp;<a href="mailto:strelets@cfd.spbstu.ru">E-mail</a></td><td><img class="wp-image-199" style="width: 131px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Левченя.png" alt=""></td><td class="has-text-align-left" data-align="left">ЛЕВЧЕНЯ Александр Михайлович,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/левченя-2/">Публикации</a>&nbsp;<a href="mailto:levchenya@yandex.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-215" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/chumakov-3.jpg" alt=""></td><td>ЧУМАКОВ Юрий Сергеевич,<br>д.ф.-м.н., профессор<br><a href="http://aeroggt.spb.ru/чумаков/">Публикации</a>&nbsp;<a href="mailto:chumakov@yahoo.com">E-mail</a></td><td><img class="wp-image-201" style="width: 126px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Плетнев.png" alt=""></td><td class="has-text-align-left" data-align="left">ПЛЕТНЕВ Александр Александрович,<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/плетнев-2/">Публикации</a>&nbsp;<a href="mailto:aapletnev@yandex.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-187" style="width: 129px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Абрамов.png" alt=""></td><td>АБРАМОВ Алексей Геннадьевич,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/абрамов-2/">Публикации</a>&nbsp;<a href="mailto:abramov@run.net">E-mail</a></td><td><img class="wp-image-155" style="width: 127px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Смирновский.png" alt=""></td><td class="has-text-align-left" data-align="left"><br>СМИРНОВСКИЙ Александр Андреевич,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/смирновский-3/">Публикации</a>&nbsp;<a href="mailto:smirta@mail.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-188" style="width: 132px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Булович-1.png" alt=""></td><td>БУЛОВИЧ Сергей Валерьевич,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/булович-3/">Публикации</a>&nbsp;<a href="mailto:bulovic@yandex.ru">E-mail</a></td><td><img class="wp-image-207" style="width: 135px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Талалов-1.png" alt=""></td><td class="has-text-align-left" data-align="left"><br>ТАЛАЛОВ Виктор Алексеевич,<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/талалов-3/">Публикации</a>&nbsp;<a href="mailto:vtalalov@phmf.spbstu.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-189" style="width: 105px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Галаев-1.png" alt=""></td><td>ГАЛАЕВ Сергей Александрович,<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/галаев-3/">Публикации</a>&nbsp;<a href="mailto:galaev@spbstu.ru">E-mail</a></td><td><img class="wp-image-171" style="width: 127px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Шур.png" alt=""></td><td class="has-text-align-left" data-align="left"><br>ШУР Михаил Львович,<br>к.ф.-м.н., доцент,<br>СПбПУ, лаборатория "Вычислительная гидроаэроакустика и турбулентность", вед. научный сотрудник<br><a href="http://aeroggt.spb.ru/шур-3/">Публикации</a>&nbsp;<a href="mailto:mshur@cfd.spbstu.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-190" style="width: 133px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Гарбарук-1.png" alt=""></td><td><br>ГАРБАРУК Андрей Викторович,<br>д.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/гарбарук-3/">Публикации</a>&nbsp;<a href="mailto:agarbaruk@cfd.spbstu.ru">E-mail</a>&nbsp;<br><a rel="noreferrer noopener" href="http://cfd.spbstu.ru/agarbaruk/" target="_blank">"Преподаватель он-лайн"»</a></td><td><img class="wp-image-191" style="width: 122px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Гатаулин-1.png" alt=""></td><td class="has-text-align-left" data-align="left"><br>ГАТАУЛИН Яков Александрович,<br>ассистент<br><a href="http://aeroggt.spb.ru/гатаулин-3/">Публикации</a>&nbsp;<a href="mailto:yakov_gataulin@mail.ru">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"><img class="wp-image-193" style="width: 139px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Засимова-1.png" alt=""></td><td>ЗАСИМОВА Марина Александровна,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/засимова-3/">Публикации</a>&nbsp;<a href="mailto:zasimova_ma@spbstu.ru">E-mail</a></td><td><img class="wp-image-167" style="width: 139px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Голубков.png" alt=""></td><td class="has-text-align-left" data-align="left">ГОЛУБКОВ Валентин Денисович,<br>ассистент<br><a href="http://aeroggt.spb.ru/голубков-3/">Публикации</a>&nbsp;<a href="mailto:golubkovvd@gmail.com">E-mail</a></td></tr><tr><td class="has-text-align-left" data-align="left"></td><td></td><td><img class="wp-image-203" style="width: 139px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Синицина-1.png" alt=""></td><td class="has-text-align-left" data-align="left">СИНИЦЫНА Дарья Эдуардовна,<br>ассистент<br><a href="http://aeroggt.spb.ru/синицына/">Публикации</a>&nbsp;<a href="mailto:sinicina.daria@yandex.ru">E-mail</a></td></tr></tbody></table></figure>
-    <!-- /wp:table -->
 
-    <!-- wp:table {"style":{"border":{"width":"0px","style":"none"}},"className":"is-style-regular"} -->
-    <figure class="wp-block-table is-style-regular"><table style="border-style:none;border-width:0px"><tbody><tr><td><br><br></td></tr></tbody></table></figure>
-    <!-- /wp:table -->
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/zajtsev.jpg alt="Преподаватель">
+						<h3>Зайцев Дмитрий Кириллович </h3>
+						<p>д.ф.-м.н. профессор</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
 
-    <!-- wp:heading {"style":{"typography":{"fontSize":"13px"}}} -->
-    <h2 style="font-size:13px"><strong>СОТРУДНИКИ КАФЕДРЫ, ОБЕСПЕЧИВАЮЩИЕ ПРОВЕДЕНИЕ ЭКСПЕРИМЕНТАЛЬНЫХ И ВЫЧИСЛИТЕЛЬНЫХ ЛАБОРАТОРНЫХ РАБОТ</strong></h2>
-    <!-- /wp:heading -->
 
-    <!-- wp:table {"hasFixedLayout":true,"style":{"typography":{"fontSize":"11px"},"border":{"width":"0px","style":"none"}},"className":"is-style-stripes"} -->
-    <figure class="wp-block-table is-style-stripes" style="font-size:11px"><table class="has-fixed-layout" style="border-style:none;border-width:0px"><tbody><tr><td><img class="wp-image-200" style="width: 128px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Мухортова-1.png" alt=""></td><td>МУХОРТОВА Светлана Валерьевна,<br>инженер</td><td><img class="wp-image-208" style="width: 113px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Тельнов-1.png" alt=""></td><td><br>ТЕЛЬНОВ Денис Семенович,<br>электроник 1 категории<br><a href="http://aeroggt.spb.ru/тельнов-3/">Публикации</a></td></tr><tr><td><img class="wp-image-202" style="width: 123px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Пожилов-1.png" alt=""></td><td>ПОЖИЛОВ Алексей Алексеевич,<br>инженер-исследователь<br><a href="http://aeroggt.spb.ru/пожилов-3/">Публикации</a>&nbsp;<a href="mailto:aapozhilov@mail.ru">E-mail</a></td><td><img class="wp-image-212" style="width: 116px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Щур-1.png" alt=""></td><td>ЩУР Николай Алексеевич,<br>к.ф.-м.н., ведущий электроник<br><a href="http://aeroggt.spb.ru/щур-3/">Публикации</a>&nbsp;<a href="mailto:koliambos@mail.ru">E-mail</a></td></tr><tr><td></td><td></td><td><img class="wp-image-213" style="width: 119px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Юхнев-1.png" alt=""></td><td><br>ЮХНЕВ Андрей Данилович,<br>заведующий учебной лабораторией аэродинамики и гидроупругости (УЛАиГ)<br><a href="http://aeroggt.spb.ru/юхнев-3/">Публикации</a>&nbsp;<a href="mailto:a.yukhnev@mail.ru">E-mail</a></td></tr></tbody></table></figure>
-    <!-- /wp:table --></div>
-    <!-- /wp:group -->
 
-    <!-- wp:table {"style":{"typography":{"fontSize":"13px"},"border":{"width":"0px","style":"none"}}} -->
-    <figure class="wp-block-table" style="font-size:13px"><table style="border-style:none;border-width:0px"><tbody><tr><td><br><br><br></td></tr></tbody></table><figcaption class="wp-element-caption"><strong>СОТРУДНИКИ, РАБОТАВШИЕ НА КАФЕДРЕ В ПОСЛЕДНИЕ ДЕСЯТИЛЕТИЯ</strong></figcaption></figure>
-    <!-- /wp:table -->
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/pashkevich.jpg alt="Преподаватель">
+						<h3>Пашкевич Дмитрий Станиславович </h3>
+						<p>д.т.н. профессор научный руководитель магистерской программы &quot;Экспериментальная и вычислительная теплофизика&quot;</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
 
-    <!-- wp:table {"style":{"typography":{"fontSize":"10.5px"}},"className":"is-style-stripes"} -->
-    <figure class="wp-block-table is-style-stripes" style="font-size:10.5px"><table><tbody><tr><td><img class="wp-image-195" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Игнатьева-1.png" alt=""></td><td><br>ИГНАТЬЕВА Нина Владимировна,<br>электроник</td><td><img class="wp-image-227" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Степанов.png" alt=""></td><td>СТЕПАНОВ Вячеслав Васильевич,<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/степанов-2/">Публикации</a>&nbsp;<a href="mailto:vstepanov@phmf.spbstu.ru">E-mail</a></td></tr><tr><td><img class="wp-image-198" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Колешко-1.png" alt=""></td><td><br>КОЛЕШКО Сергей Борисович,<br>к.ф.-м.н., профессор<br><a href="http://aeroggt.spb.ru/колешко-3/">Публикации</a>&nbsp;<a href="mailto:skoleshko@ya.ru">E-mail</a></td><td><img class="wp-image-209" style="width: 150px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Шмидт-1.png" alt=""></td><td>ШМИДТ Александр Александрович,<br>к.ф.-м.н., доцент<br><a href="http://aeroggt.spb.ru/шмидт-3/">Публикации</a>&nbsp;<a href="mailto:alexander.schmidt@mail.ioffe.ru">E-mail</a></td></tr><tr><td><img class="wp-image-205" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Снегирев-1.png" alt=""></td><td>СНЕГИРЁВ Александр Юрьевич,<br>д.т.н., профессор<br><a href="http://aeroggt.spb.ru/снегирёв/">Публикации</a>&nbsp;<a href="mailto:a.snegirev@phmf.spbstu.ru">E-mail</a></td><td><img class="wp-image-210" style="width: 270px;" src="http://aeroggt.spb.ru.swtest.ru/wp-content/uploads/2023/03/Штейнберг-2.png" alt=""></td><td>ШТЕЙНБЕРГ Виктор Борисович,<br>к.т.н., доцент<br><a href="http://aeroggt.spb.ru/штейнберг-4/">Публикации</a></td></tr></tbody></table></figure>
-    <!-- /wp:table --></div></div>
-    <!-- /wp:cover -->
-</body>
-</html>
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/strelets.jpg alt="Преподаватель">
+						<h3>Стрелец Михаил Хаймович </h3>
+						<p>д.ф.-м.н. профессор </p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/chumakov.jpg alt="Преподаватель">
+						<h3>Чумаков Юрий Сергеевич </h3>
+						<p>д.ф.-м.н. профессор</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/abramov.jpg alt="Преподаватель">
+						<h3>АбрАмов Алексей Геннадьевич </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/bulovich.jpg alt="Преподаватель">
+						<h3>Булович Сергей Валерьевич </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/galaev.jpg alt="Преподаватель">
+						<h3>Галаев Сергей Александрович </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/garbaruk.jpg alt="Преподаватель">
+						<h3>Гарбарук Андрей Викторович</h3>
+						<p>д.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/zasimova.jpg alt="Преподаватель">
+						<h3>Засимова Марина Александровна </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/ivanov.jpg alt="Преподаватель">
+						<h3>Иванов Николай Георгиевич </h3>
+						<p>к.ф.-м.н. доцент директор высшей школы</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/kitanina_e.jpg alt="Преподаватель">
+						<h3>Китанина Екатерина Эдуардовна </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/kolesnik.jpg alt="Преподаватель">
+						<h3>КолесниК Елизавета Владимировна </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/levchenya4.jpg alt="Преподаватель">
+						<h3>Левченя Александр Михайлович </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/pletnev.jpg alt="Преподаватель">
+						<h3>Плетнев Александр Александрович </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/smirnovs.png alt="Преподаватель">
+						<h3>СмирновСкий Александр Андреевич </h3>
+						<p>к.ф.-м.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/talalov.jpg alt="Преподаватель">
+						<h3>Талалов Виктор Алексеевич </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/shur.jpg alt="Преподаватель">
+						<h3>Шур Михаил Львович </h3>
+						<p>к.ф.-м.н. доцент </p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/gataulin.jpg alt="Преподаватель">
+						<h3>Гатаулин Яков Александрович</h3>
+						<p>ассистент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/golubkov.jpg alt="Преподаватель">
+						<h3>Голубков Валентин Денисович</h3>
+						<p>ассистент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/sinitsina.jpg alt="Преподаватель">
+						<h3>Синицына Дарья Эдуардовна</h3>
+						<p>ассистент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/muhortova.jpg alt="Преподаватель">
+						<h3>Мухортова Светлана Валерьевна</h3>
+						<p>инженер</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/pozhilov.jpg alt="Преподаватель">
+						<h3>Пожилов Алексей Алексеевич</h3>
+						<p>инженер-исследователь</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/telnov.jpg alt="Преподаватель">
+						<h3>Тельнов Денис Семенович</h3>
+						<p>электроник 1 категории</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/tshur.jpg alt="Преподаватель">
+						<h3>Щур Николай Алексеевич </h3>
+						<p>к.ф.-м.н. ведущий электроник</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/yuhnev_s.jpg alt="Преподаватель">
+						<h3>Юхнев Андрей Данилович </h3>
+						<p>заведующий учебной лабораторией аэродинамики и гидроупругости (УЛАиГ)</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/ignatyeva.jpg alt="Преподаватель">
+						<h3>Игнатьева Нина Владимировна</h3>
+						<p>электроник</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/koleshko.jpg alt="Преподаватель">
+						<h3>КолешКо Сергей Борисович </h3>
+						<p>к.ф.-м.н. профессор</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/snegirev.jpg alt="Преподаватель">
+						<h3>Снегирёв Александр Юрьевич </h3>
+						<p>д.т.н. профессор</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/stepanov.jpg alt="Преподаватель">
+						<h3>Степанов Вячеслав Васильевич </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/shmidt.jpg alt="Преподаватель">
+						<h3>Шмидт Александр Александрович </h3>
+						<p>к.ф.-м.н. доцент </p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+
+					<div class="teacher">
+						<img src=https://aero.spbstu.ru/images/aero/lectors/shteinberg.jpg alt="Преподаватель">
+						<h3>Штейнберг Виктор Борисович </h3>
+						<p>к.т.н. доцент</p>
+						<a class="links-teachers" href="">Публикации</a>
+						<a class="links-teachers" href="">Email</a>
+					</div>
+
+
+		<div/>
+{% endblock%}
