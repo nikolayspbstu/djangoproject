@@ -1,0 +1,61 @@
+main .container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			margin:40px;
+		}
+
+main .teacher {
+            background-color: #848484;
+            color: white;
+			width: 30%;
+			margin-bottom: 30px;
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 15px;
+			margin-left: 40px;
+}
+
+main .teacher img {
+			position: relative;
+			width: 20%;
+			border-radius: 5px;
+			margin-left: 120px;
+
+
+}
+
+main .teacher h3 {
+			margin-top: 10px;
+			font-size: 20px;
+			margin-left: 10px;
+			font-weight: bold;
+}
+
+main .teacher p {
+			margin-top: 10px;
+			font-size: 16px;
+			margin-left: 10px;
+
+}
+
+main @media (max-width: 768px) {
+    .teacher {
+        width: 100%;
+    }
+}
+
+main .links-teachers{
+	position: relative;
+	margin: 10px;
+	text-decoration:none;
+	color: #9DB1EC;
+	font-weight: bold;
+
+}
+
+main .links-teachers:hover{
+	text-decoration: none;
+	transform: scale(1.05);
+	color:red;
+}
