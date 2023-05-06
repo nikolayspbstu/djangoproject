@@ -8,14 +8,16 @@
   </header>
   <main>
     <section>
-      <h2>"год"</h2>
+      {%for el in all%}
+      <h2>{{el.year}}</h2>
       <article>
-        <h3>Название</h3>
-        <p>авторы</p>
-              <p>url</p>
+        <h3>{{el.title}}</h3>
+        <p>{{el.authors}}</p>
+              <p>{{el.url}}</p>
       </article>
+      {%endfor%}
     </section>
-    <section>
+
   </main>
 
 {% endblock %}
