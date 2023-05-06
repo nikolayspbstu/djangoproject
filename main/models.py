@@ -12,9 +12,8 @@ class Teacher(models.Model):
 class Article(models.Model):
     title = models.CharField(max_length=200)
     content = models.TextField()
-
-
-    teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE)
+    year=models.IntegerField(null=True)
+    teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE, related_name='articles')
 
 
     def __str__(self):

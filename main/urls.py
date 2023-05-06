@@ -1,13 +1,44 @@
 from django.urls import path
-from django.contrib import admin
 from . import views
+from django.contrib import admin
 
 
 urlpatterns = [
-    path('',views.main_str,name='home'),
+    path('',views.about,name='home'),
     path('about',views.about,name='about'),
+    path('kafedr',views.kafedr,name='kafedr'),
     path('personality',views.teacherteam,name='personal'),
+    path('smirnov', views.smirnov, name='smirnov'),
+    path('zaytsev', views.zaytsev, name='zaytsev'),
+    path('paskevich', views.paskevich, name='paskevich'),
+    path('strelec', views.strelec, name='strelec'),
+    path('chumakov', views.chumakov, name='chumakov'),
+    path('abramov', views.abramov, name='abramov'),
+    path('bulovich', views.bulovich, name='bulovich'),
+    path('galaev', views.galaev, name='galaev'),
+    path('garbaruk', views.garbaruk, name='garbaruk'),
+    path('zasimova', views.zasimova, name='zasimova'),
+    path('ivanov', views.ivanov, name='ivanov'),
+    path('kitanina', views.kitanina, name='kitanina'),
+    path('kolesnik', views.kolesnik, name='kolesnik'),
+    path('levchenya', views.levchenya, name='levchenya'),
+    path('pletnev', views.pletnev, name='pletnev'),
+    path('smirnovskiy', views.smirnovskiy, name='smirnovskiy'),
+    path('talalov', views.talalov, name='talalov'),
+    path('shur', views.shur, name='shur'),
+    path('garaulin', views.garaulin, name='garaulin'),
+    path('golubkov', views.golubkov, name='golubkov'),
+    path('sinicina', views.sinicina, name='sinicina'),
+    path('muhortova', views.muhortova, name='muhortova'),
+    path('pozilov', views.pozilov, name='pozilov'),
+    path('telnov', views.telnov, name='telnov'),
+    path('scur', views.scur, name='scur'),
+    path('uhnev', views.uhnev, name='uhnev'),
+    path('ignatieva', views.ignatieva, name='ignatieva'),
+    path('koleshko', views.koleshko, name='koleshko'),
+    path('snegirev', views.snegirev, name='snegirev'),
+    path('stepanov', views.stepanov, name='stepanov'),
+    path('shmidt', views.shmidt, name='shmidt'),
     path('admin/',admin.site.urls),
-    #path('smirnov',views.publication,name='smirnov'),
-
+    path('load',views.load_articles,name='load'),
 ]

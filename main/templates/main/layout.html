@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{% static 'main/css/style.css'%}">
     <link rel="stylesheet" href="{% static 'main/css/personality.css'%}">
     <link rel="stylesheet" href="{% static 'main/css/publications.css'%}">
+    <link rel="stylesheet" href="{% static 'main/css/load.css'%}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 </head>
 
@@ -23,22 +24,29 @@
                 <li><span>Главная</span></li>
             </a>
 
-            <a href="" class="Navigation">
+            <a href="{%url 'kafedr'%}" class="Navigation">
                 <li><span>Кафедра</span></li>
             </a>
 
-            <a href="{%url 'about'%}" class="Navigation">
-                <li><span>О нас</span></li>
-            </a>
+<!--            <a href="{%url 'about'%}" class="Navigation">-->
+<!--                <li><span>О нас</span></li>-->
+<!--            </a>-->
 
             <a href="{% url 'personal'%}" class="Navigation">
                 <li><span>Преподавательский состав</span></li>
             </a>
+
+         <a href="{% url 'load'%}" class="Navigation">
+                        <li><span>Выгрузка из Базы данных</span></li>
+                    </a>
+
         </ul>
     </aside>
 
     <main>
-        <div class="image-logo"><p class="GGT"></div>
+        <h1 class="test-page">Секция "Гидроаэродинамика, Горение и Теплообмен"</h1>
+        <h2 class="test-page">Высшая школа прикладной математики и вычислительной физики СПбПУ</h2>
+<!--        <div class="image-logo"><p class="GGT"><img src="{% static 'main/images/logo2.jpg'%}" alt="" ></p></div>-->
         {% block content %}
         {% endblock %}
 
