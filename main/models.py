@@ -18,3 +18,11 @@ class Article(models.Model):
 
     def __str__(self):
         return self.title
+
+    def to_dict(self):
+        return {
+            'title': self.title,
+            'content': self.content,
+            'teacher': str(self.teacher),
+            'year': self.year
+        }

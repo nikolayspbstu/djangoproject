@@ -4,20 +4,39 @@ from django.urls import reverse
 from django.contrib import admin
 from .models import Teacher, Article
 from .forms import ArticleFilterForm
+from django.http import JsonResponse
+import json
+from django.http import HttpResponse
 # Create your views here.
 def load_articles(request):
     form = ArticleFilterForm(request.GET or None)
-    articles = Article.objects.all()
+    articles = []
 
-    if request.GET.get('teacher'):
-        articles = articles.filter(teacher__id=request.GET.get('teacher'))
-    if request.GET.get('year'):
-        articles = articles.filter(year=request.GET.get('year'))
+    if request.GET.get('teacher') and request.GET.get('year'):
+        articles = Article.objects.filter(
+            teacher__id=request.GET.get('teacher'),
+            year=request.GET.get('year')
+        )
+
+    return render(request, 'main/load.html', {'form': form, 'articles': articles})
 
 
+def download_articles(request):
+    if request.method == 'GET':
+        articles = []
 
-    context = {'form': form, 'articles': articles}
-    return render(request, 'main/load.html', context)
+        if request.GET.get('teacher') and request.GET.get('year'):
+            articles = Article.objects.filter(
+                teacher__id=request.GET.get('teacher'),
+                year=request.GET.get('year')
+            )
+
+        articles_json = json.dumps([article.to_dict() for article in articles], ensure_ascii=False,indent=4)
+
+        response = HttpResponse(articles_json, content_type='application/json')
+        response['Content-Disposition'] = 'attachment; filename="articles.json"'
+        return response
+
 
 def index(request):
 

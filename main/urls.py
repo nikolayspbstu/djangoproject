@@ -41,4 +41,5 @@ urlpatterns = [
     path('shmidt', views.shmidt, name='shmidt'),
     path('admin/',admin.site.urls),
     path('load',views.load_articles,name='load'),
+    path('download/', views.download_articles, name='download_articles'),
 ]
