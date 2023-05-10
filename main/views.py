@@ -245,4 +245,8 @@ def shmidt(request):
     return render(request, 'main/publications/teach_shablon.html',context)
 
 
+def admin(request):
+
+    return render(request,'main/admin.html')
+
 
