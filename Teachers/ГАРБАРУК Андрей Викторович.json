@@ -1,0 +1,974 @@
+[
+    {
+        "Year": "2022",
+        "Authors": "Menter F.R, Matyushenko A.A, Lechner R, Stabnikov A.S, Garbaruk A.V",
+        "Title": " An Algebraic LCTM Model for Laminar–Turbulent Transition Prediction  Flow Turbul. Combust. 2022. Т. 109, № 4. С. 841–869. (скачать)\r\n",
+        "Url": "https://link.springer.com/content/pdf/10.1007/s10494-022-00336-8.pdf"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Garbaruk A.V, Strelets M.K, Shur M.L, Dyadkin A.A, Rybak S, Mikhailov M.V",
+        "Title": " Simulation of the Impact of the Wakes of an Emergency Rescue Unit’s Nozzles on the Surface of a Manned Spacecraft  Mathematical Models and Computer Simulations. – 2022. – Vol. 14. – No 1. – P. 81-91. – DOI 10.1134S2070048222010112. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/profile/Andrey-Garbaruk/publication/358753499_Simulation_of_the_Impact_of_the_Wakes_of_an_Emergency_Rescue_Unit's_Nozzles_on_the_Surface_of_a_Manned_Spacecraft/links/621cece5579f1c041720d9a2/Simulation-of-the-Impact-of-the-Wakes-of-an-Emergency-Rescue-Units-Nozzles-on-the-Surface-of-a-Manned-Spacecraft.pdf"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Garbaruk A.V, Strelets M.K, Shur M.L, Dyadkin A.A, Rybak S, Mikhailov M.V, Dankov B.N, Kosenko A.P",
+        "Title": " Two-Stage RANS-DDES Model and Results of Computations of Unsteady Loads on the Reentry Capsule and Engine Compartment of a Manned Spacecraft in the Course of Their Emergency Separation  Mathematical Models and Computer Simulations. – 2022. – Vol. 14. – No 1. – P. 147-158. – DOI 10.1134S2070048222010100. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/profile/Andrey-Garbaruk/publication/358764315_Two-Stage_RANS-DDES_Model_and_Results_of_Computations_of_Unsteady_Loads_on_the_Reentry_Capsule_and_Engine_Compartment_of_a_Manned_Spacecraft_in_the_Course_of_Their_Emergency_Separation/links/621cecbf9947d339eb70b2d7/Two-Stage-RANS-DDES-Model-and-Results-of-Computations-of-Unsteady-Loads-on-the-Reentry-Capsule-and-Engine-Compartment-of-a-Manned-Spacecraft-in-the-Course-of-Their-Emergency-Separation.pdf"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Голубков В.Д, Гарбарук А.В",
+        "Title": " Численное моделирование турбулентного течения во вращающемся канале прямоугольного сечения с поворотом на 90°  Неделя науки ФизМех: сборник статей Всероссийской научной конференции, 4–9 апреля 2022 г. – СПб.: ПОЛИТЕХ-ПРЕСС, 2022. ISBN 978-5-7422-7904-4.– с.275-278. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Стабников А.С, Гарбарук А.В",
+        "Title": " Алгебраическая модель ламинарно-турбулентного перехода для расчета турбулентных течений на основе метода моделирования отсоединенных вихрей  Научно-технические ведомости Санкт-Петербургского государственного политехнического университета. Физико-математические науки. – 2022. – Т. 15. – № 1. – С. 16-29. – DOI 10.18721JPM.15102. (скачать)\r\n",
+        "Url": "https://physmath.spbstu.ru/userfiles/files/articles/2022/1/02_16-29_15(1)2022.pdf"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Garbaruk A, Strelets M, Crouch J",
+        "Title": " Effects of Extended Laminar Flow on Wing Buffet-Onset Characteristics  AIAA Journal. 2021, v. 59, N 8, pp. 2848-2854.  (скачать)\n",
+        "Url": "https://doi.org/10.2514/1.J060707"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Kolmogorov D.K, Garbaruk A.V, Stabnikov A.S",
+        "Title": " and Menter F.R. Large-Eddy simulation of CS0 diffuser on resolved and under-resolved meshes  In conference proceedings of 13th International ERCOFTAC Symposium (ETMM13), Rode, Greece, (September 2021), p. 481-486. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Kolmogorov D.K, Huppe A, Menter F,  Garbaruk A.V",
+        "Title": " Large Eddy Simulation with wall functions of Ahmed body  J. Phys.: Conf. Ser. 2021, November, Vol. 2103, No. 1, p. 012213, IOP Publishing, https:doi.org10.10881742-659621031012213. (скачать)\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/2103/1/012213/pdf"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Kolmogorov D.K, Menter F",
+        "Title": " and Garbaruk A.V. On mesh requirements for large eddy simulation with wall functions  J. Phys.: Conf. Ser. 2021, November, Vol. 2103, No. 1, p. 012212, IOP Publishing, https:doi.org10.10881742-659621031012212. (скачать)\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/2103/1/012212/pdf"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Menter F.R, Lechner R, Matyushenko A, Stabnikov A.S",
+        "Title": " and Garbaruk A. An algebraic LCTM transition model  In conference proceedings of 13th International ERCOFTAC Symposium (ETMM13), Rode, Greece, (September 2021), p. 487-493. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Spalart P.R, Garbaruk A.V",
+        "Title": " A New “Lambda2” Term for the Spalart–Allmaras Turbulence Model, Active in Axisymmetric Flows  Flow Turbulence Combust, 2021, v. 107, pp 245–256. (скачать)\n",
+        "Url": "https://doi.org/10.1007/s10494-020-00223-0."
+    },
+    {
+        "Year": "2021",
+        "Authors": "Stabnikov A.S, Kolmogorov D.K, Garbaruk A.V, Menter F.R",
+        "Title": " Direct Numerical Simulation of separated turbulent flow in axisymmetric diffuser  J. Phys.: Conf. Ser. 2021, November, Vol. 2103, No. 1, p. 012214, IOP Publishing, https:doi.org10.10881742-659621031012214. (скачать)\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/2103/1/012214/pdf"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Беляев К.В, Гарбарук А.В, Никулин Д.А, Стрелец М.Х",
+        "Title": " Опыт оптимизации воздухораспределения и параметров микроклимата в православном храме  АВОК, №7, стр. 60-67, 2021. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Гарбарук A.В, Стрелец M.Х, Шур M.Л, Дядькин A.A, Михайлов M.В, Рыбак С.П, Даньков Б.Н, Косенко А.П",
+        "Title": " Двухэтапная RANS-DDES модель и результаты расчета нестационарных воздействий на возвращаемый аппарат и двигательный отсек космического корабля при их аварийном разделении  Математическое моделирование. – 2021. – Т. 33. – № 7. – С. 121-138. – DOI: 10.20948mm-2021-07-09. (скачать)\n",
+        "Url": "http://www.mathnet.ru/rus/mm4308"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Гарбарук А.В",
+        "Title": " Численное моделирование и анализ устойчивости пристеночных турбулентных течений . Диссертация на соискание учетной степени доктора физико-математических наук по специальности 01.02.05 Механика жидкости, газа и плазмы. Санкт-Петербург, 2021. - 284с. (скачать)\n",
+        "Url": "http://www.spbstu.ru/dsb/07ac-thesis.pdf"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дядькин А.А, Рыбак С.П, Михайлов M.В",
+        "Title": " Моделирование воздействия следов сопел блока аварийного спасения на поверхность пилотируемого космического корабля  Математическое моделирование. – 2021. – Т. 33. – № 7. – С. 18-34. – DOI: 10.20948mm-2021-07-02. (скачать)\n",
+        "Url": "http://www.mathnet.ru/rus/mm4301"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Crouch J.D, Garbaruk A, Strelets M",
+        "Title": " Global instability in the onset of transonic-wing buffet–corrigendum  Journal of Fluid Mechanics, 2020, v.901, p.E1-1 – E1-6. DOI: 10.1017jfm.2020.557 SCOPUS, WoS \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Matyushenko A.A, Stabnikov A.S, Garbaruk A.V, Menter F.R, Lechner R",
+        "Title": " Testing of a new algebraic laminar-turbulent transition model on a range of airfoils at moderate Reynolds numbers  Journal of Physics. Conference Series 1697 (2020) 012229. DOI:10.10881742-659616971012229 SCOPUS, WoS (скачать)\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1697/1/012229/pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Spalart P.R, Garbaruk A.V",
+        "Title": " Correction to the Spalart–Allmaras Turbulence Model, Providing More Accurate Skin Friction  AIAA Journal, 2020, v.58, No.5, p.1903-1905. DOI: 10.25141.J059489 SCOPUS, WoS \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Stabnikov A.S, Garbaruk A.V",
+        "Title": " Prediction of drag crisis on a circular cylinder using a new algebraic transition model coupled with SST DDES  Journal of Physics. Conference Series 1697 (2020) 012224. DOI:10.10881742-659616971012224 SCOPUS, WoS (скачать)\r\n\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1697/1/012224/pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Кузнецов Е.А, Матюшенко А.А, Гарбарук А.В, Смирновский А.А",
+        "Title": " Моделирование турбулентности. Расчет сдвиговых течений с применением ANSYS FLUENT: практикум. СПб.: ПОЛИТЕХ-ПРЕСС, 2020. – 49 с. (скачать)\r\n",
+        "Url": "https://aero.spbstu.ru/attachments/article/81/2020-turbulence%20modelling.pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Гусева Е.К, Гарбарук А.В, Смирновский А.А",
+        "Title": " Модели физико-химической гидрогазодинамики и турбулентности. Расчет турбулентных течений с применением вихреразрешающих подходов: практикум. СПб. : ПОЛИТЕХ-ПРЕСС, 2020. – 49 с. (скачать)\r\n",
+        "Url": "https://aero.spbstu.ru/attachments/article/81/2020-ph_modelling_hdt.pdf"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Crouch J.D, Garbaruk A, Strelets M",
+        "Title": " Global instability in the onset of transonic-wing buffet  Journal of Fluid Mechanics, 2019, v. 881, p.3-22. DOI: 10.1017jfm.2019.748.                                                                                                                                                    \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Matyushenko A.A, Stabnikov A.S, Garbaruk A.V",
+        "Title": " Criteria of computational grid generation for turbulence models taking into account laminar-turbulent transition  Journal of Physics: Conference Series. 1400 (2019) 077047. (International Conference PhysicA.SPb2019) DOI: 10.10881742-659614007077047. 6p.              \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Голубков В.Д, Гарбарук А.В",
+        "Title": " Численное моделирование обтекания крылового профиля беспилотного летательного аппарата  Неделя науки СПбПУ: материалы научной конференции с международным участием, 18–23 ноября 2019 г. Институт прикладной математики и механики. – СПб. : ПОЛИТЕХ-ПРЕСС, 2019. с.7-10.                           \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Матюшенко А.А, Гарбарук А.В, Ментер Ф.Р, Смирнов П.Е",
+        "Title": " Усовершенствование k-omega SST модели турбулентности применительно к расчету обтекания прямых крыльев конечного размаха  Тепловые процессы в технике. 2019, Т.11 №7 с. 290-298.                                                                                        \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Дядькин А.А, Рыбак С.П, Трашков Г.А, Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дроздов С.М, Столяров Е.П",
+        "Title": " Расчетно-экспериментальные исследования пульсаций давления на поверхности космической головной части с пилотируемым транспортным кораблем на участке выведения  Космическая техника и технологии, 2019, № 1, с. 5-22.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Crouch J.D, Garbaruk A, Strelets M",
+        "Title": " Global Instability Analysis of Unswept- and Swept-Wing Transonic Buffet Onset  AIAA Paper, AIAA 2018-3229. DOI: 10.25146.2018-3229. 11 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " 2D wall-mounted hump  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 173-187. DOI: 10.1007978-3-319-52995-0_9.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Mockett C, Fuchs M, Thiele F, Wallin S, Peng S.H, Deck S, Kok J.C, van der Ven H, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Non-zonal Approaches for Grey Area Mitigation  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 17-50. DOI: 10.1007978-3-319-52995-0_2.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Matyushenko A.A, Stabnikov A.S, Garbaruk A.V",
+        "Title": " Comparative analysis of transition models in prediction of flow over NACA-0012 airfoils in tandem  Journal of Physics: Conference Series, 2018, 1038, 012130. 6 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Guseva E.K, Gritskevich M.S, Garbaruk A.V",
+        "Title": " Assessment of two approaches to accelerate RANS to LES transition in shear layers in the framework of ANSYS-FLUENT  Journal of Physics: Conference Series, 2018, 1038, 012134. 6 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Nikiforova K, Garbaruk A.V",
+        "Title": " Numerical simulation of aeroacoustical noise from a wing-flap configuration  Journal of Physics: Conference Series, 2018, 1038, 012135. 6 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Spalart P.R, Garbaruk A, Stabnikov A",
+        "Title": " On the skin friction due to turbulence in ducts of various shapes  Journal of Fluid Mechanics. 838, pp. 369-378.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Spalart P.R, Garbaruk A",
+        "Title": " The Predictions of Common Turbulence Models in a Mature Vortex  Flow, Turbulence and Combustion. 2018. 11 р. DOI:10.1007s10494-018-9983-6.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Nikiforova K, Guseva E.K, Garbaruk A.V",
+        "Title": " Application of WMLES to wall-bounded flows with pressure gradient  Journal of Physics: Conference Series, Vol. 1135 (2018) 012106. 6 p. (DOI:10.10881742-659611351012106, Proceedings of the International Conference PhysicA.SPb2018, 23-25 October 2018, St. Petersburg, Russia)\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Matyushenko A.A, Garbaruk A.V",
+        "Title": " Validation of the SST-HL turbulence model for separated flows and for flow around airfoils in wide range of angles of attack  Journal of Physics: Conference Series, Vol. 1135 (2018) 012106. 6 p. (DOI:10.10881742-659611351012106, Proceedings of the International Conference PhysicA.SPb2018, 23-25 October 2018, St. Petersburg, Russia)\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Stabnikov A.S, Garbaruk A.V",
+        "Title": " Analysis of abilities of the algebraic laminar-turbulent transition models  Journal of Physics: Conference Series, Vol. 1135 (2018) 012106. 6 p. (DOI:10.10881742-659611351012106, Proceedings of the International Conference PhysicA.SPb2018, 23-25 October 2018, St. Petersburg, Russia)\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дядькин А.А, Рыбак С.П",
+        "Title": " Расчетные исследования распределения давления и пульсаций давления на пилотируемом транспортном комплексе при отделении ОГБ  Труды 7 Всероссийской конференции «Вычислительный эксперимент в аэроакустике», 17-22 сентября 2018, Светлогорск , стр. 75-79.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Матюшенко А.А, Гарбарук А.В, Ментер Ф.Р, Смирнов П.Е",
+        "Title": " Модификация SST модели турбулентности для повышения точности расчета обтекания крыловых профилей  Труды Седьмой российской национальной конференции по теплообмену (РНКТ-7), 22-26 октября 2018, г.Москва, c. 211-214.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": " ",
+        "Title": " ",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Spalart P.R, Garbaruk A, Howerton B.M",
+        "Title": " CFD analysis of an installation used to measure the skin-friction penalty of acoustic treatments  AIAA Paper AIAA 2017-3691. 10 p. (скачать)\r\n",
+        "Url": "https://doi.org/10.2514/6.2017-3691"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Mockett C, Fuchs M, Thiele F, Wallin S, Peng S.H, Deck S, Kok J.C, van der Ven H, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Non-zonal approaches for grey area mitigation  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 17-50. DOI: 10.1007978-3-319-52995-0_2 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " 2D wall-mounted hump  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, V.134, pp. 173-187. DOI: 10.1007978-3-319-52995-0_9 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Spalart P.R, Belyaev K.V, Garbaruk A.V, Shur M.L, Strelets M. Kh, Travin A.K. Large-Eddy and Direct Numerical Simulations of the Bachalo-Johnson Flow with Shock-Induced Separation // Flow Turbulence and Combustion, 2017, v.99, pp",
+        "Title": " 865-885. DOI: 10.1007s10494-017-9832-z. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Guseva E.K, Garbaruk A.V, Strelets M",
+        "Title": " Kh. Assessment of Delayed DES and Improved Delayed DES Combined with a Shear-Layer-Adapted Subgrid Length-Scale in Separated Flows  Flow Turbulence and Combustion, 2017, v. 98, No. 2, pp. 481-502, DOI 10.1007s10494-016-97. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Menter F.R",
+        "Title": " A Comprehensive Study of Improved Delayed Detached Eddy Simulation with Wall Functions  Flow, Turbulence and Combustion, 2017, 98 (2), pp. 461-479. DOI: 10.1007s10494-016-9761-2 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Probst A, Schwamborn D, Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " Evaluation of grey area mitigation tools within zonal and non-zonal RANS-LES approaches in flows with pressure induced separation  Int. J. of Heat and Fluid Flow, 2017, v. 68, pp. 237–247. (скачать)\r\n",
+        "Url": "https://doi.org/10.1016/j.ijheatfluidflow.2017.08.008"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Garbaruk A.V, Gritskevich M.S, Kalmykov S.G, Mozharov A.M, Sasin M.E",
+        "Title": " Prepulse-induced shock waves in the gas jet target of a laser plasma EUV radiation source  Journal of Physics D: Applied Physics, 2017, 50 (2), N025201. DOI: 10.10881361-6463502025201. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Matyushenko A.A, Kotov E.V, Garbaruk A.V",
+        "Title": " Calculations of flow around airfoils using two-dimensional RANS: an analysis of the reduction in accuracy  St. Petersburg Polytechnic University Journal: Physics and Mathematics. March 2017. Volume 3, Issue 1, pp.15-21. DOI 10.1016j.spjpm.2017.03.004. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Gritskevich M.S, Garbaruk A.V",
+        "Title": " Influence of upstream pipe bends on the turbulent heat and mass transfer in T-junctions  Journal of Physics: Conference Series. 2017. Vol. 891. p. 12046-51. DOI:10.10881742-65968911012046. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Guseva E.K, Garbaruk A.V, Strelets M.Kh",
+        "Title": " An automatic hybrid numerical scheme for global RANS-LES approaches  Journal of Physics: Conference Series. 2017. Т. 929 p.012099-104 DOI:10.10881742-65969291012099. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Matyushenko A.A, Garbaruk A.V",
+        "Title": " Non-linear correction for the k-omega SST turbulence model  Journal of Physics: Conference Series. 2017. T. 929, p.012102-7. DOI 10.10881742-65969291012102. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Gritskevich M.S, Garbaruk A.V",
+        "Title": " On prediction of turbulent heat transfer in the framework of Improved Delayed Detached Eddy Simulation with Wall Functions  Journal of Physics: Conference Series. 2017. Vol. 929. p. 12094-9. DOI:10.10881742-65969291012094. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Stabnikov A. S, Garbaruk A",
+        "Title": " V. Comparative analysis of transition models at different farfield turbulence intensities  Journal of Physics: Conference Series. 2017. Vol. 929. p.012101-6. DOI :10.10881742-65969291012101. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Гусева Е.К, Гарбарук А.В, Стрелец М.Х. Тестирование подсеточного масштаба, адаптированного к слоям смешения, в рамках метода DDES / Труды XXI школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (22—26 мая 2017 г, г",
+        "Title": " Санкт-Петербург). — М.: Издательский дом МЭИ, 2017. — С. 163-166. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Никифорова К.В, Гарбарук А.В, Ментер Ф, Смирнов П.Е. Объемный генератор синтетической турбулентности в программном пакете ANSYS Fluent / Труды XXI школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (22—26 мая 2017 г, г",
+        "Title": " Санкт-Петербург). — М.: Издательский дом МЭИ, 2017. — С. 221-224. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Грицкевич М.С, Матюшенко А.А, Гарбарук А.В. Влияние стенок кожуха на характеристики турбулентного тепломассообмена в сборках тепловыделяющих элементов / Труды XXI школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (22—26 мая 2017 г, г",
+        "Title": " Санкт-Петербург). — М.: Издательский дом МЭИ, 2017. — С. 159-162. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Стабников А.С, Гарбарук А.В. Сравнительный анализ возможностей модели турбулентности SSG/LRR / Труды XXI школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (22—26 мая 2017 г, г",
+        "Title": " Санкт-Петербург). — М.: Издательский дом МЭИ, 2017. — С. 255-258. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Стабников А.С, Гарбарук А.В",
+        "Title": " Сравнительный анализ возможностей модели турбулентности SSG  LRR  Тепловые процессы в технике №11 за 2017, сс. 482-488. 2017. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Матюшенко А.А, Котов Е.В, Гарбарук А.В",
+        "Title": " Анализ причин снижения точности при расчете обтекания крыловых профилей в рамках двумерных уравнений Рейнольдса  Научно-технические ведомости Санкт-Петербургского государственного политехнического университета. Физико-математические науки. 2017. Т. 10. № 1. С. 20-30. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Гусева Е.К, Гарбарук А.В, Стрелец М.Х",
+        "Title": " Разработка и тестирование sigma-DDES подхода на основе k-omega SST модели  Тепловые процессы в технике, 2017, №10, стр. 434-439. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Никифорова К.В, Гарбарук А.В, Ментер Ф, Смирнов П.Е",
+        "Title": " Объемный генератор синтетической турбулентности в программном пакете ANSYS Fluent  Тепловые процессы в технике. 2017. № 9. С. 426-430. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Грицкевич М. С, Матюшенко А. А, Гарбарук А",
+        "Title": " В. Влияние стенок кожуха на характеристики турбулентного тепломассообмена в сборках тепловыделяющих элементов  Тепловые процессы в технике. 2017. №9. С. 387-391. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Probst A, Schwamborn D, Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " Evaluation of grey area mitigation tools within zonal and non-zonal rans-les approaches in flows with pressure induced separation  Proceedings of 11th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Palermo, Italy, 2016. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Guseva E.K, Garbaruk A.V, Strelets M.Kh",
+        "Title": " Comparison of two approaches to accelerating secondary transition to turbulence in separated shear layers in the framework of Delayed Detached Eddy Simulation  Proceedings of 7th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2016). 1 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Spalart P, Belyaev K, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Large-eddy and direct numerical simulations of the Bachalo-Johnson flow with shock-induced separation  Proceedings of 11th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Palermo, Italy, 2016.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Garbaruk A.V, Gritskevich M.S, Kalmykov S.G, Sasin M.E",
+        "Title": " Computational simulation of laser plasma emission with shock-wave-affected density distribution in the gas-jet target  Technical Physics Letters. 2016. v. 42 № 10. 993-996.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Menter F.R",
+        "Title": " Investigation of the passage between LES and RANS subdomains in the framework of zonal RANS-LES approaches  Journal of Physics: Conference Series. 2016. Vol 769. 6pp. 012080 doi:10.10881742-65967691012080.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Guseva E.K, Garbaruk A.V, Strelets M.Kh",
+        "Title": " Application of DDES and IDDES with shear layer adapted subgrid length-scale to separated flows  Journal of Physics: Conference Series. 2016. Vol 769. 012081 doi:10.10881742-65967691012081.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Matyushenko A.A, Garbaruk A.V",
+        "Title": " Adjustment of the k-omega SST turbulence model for prediction of airfoil characteristics near stall flows  Journal of Physics: Conference Series. 2016. Vol 769. 012082 doi:10.10881742-65967691012082.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Stabnikov A.S, Garbaruk A.V",
+        "Title": " Testing of modified curvature-rotation correction for k-omega SST model  Journal of Physics: Conference Series. 2016. 012087. Vol 769. doi:10.10881742-65967691012087.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Guseva E.K, Garbaruk A.V, Strelets M.K",
+        "Title": " Assessment of Delayed DES and Improved Delayed DES Combined with a Shear-Layer-Adapted Subgrid Length-Scale in Separated Flows  Flow Turbulence Combust. 2016. DOI 10.1007s10494-016-9769-7.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Menter F.R",
+        "Title": " A Comprehensive Study of Improved Delayed Detached Eddy Simulation with Wall Functions  Flow Turbulence and Combustion. 2016. DOI:10.1007s10494-016-9761-2.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Garbaruk A.V, Gritskevich M.S, Kalmykov S.G, Mozharov A.M, Sasin M.E",
+        "Title": " Prepulse-induced shock waves in the gas jet target of a laser plasma EUV radiation source  Journal of Physics D: Applied Physics, 2016. Vol. 50, No. 2. P.025201.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Belyaev K.V, Garbaruk A.V, Shur M.L, Strelets M.Kh, Spalart P.R",
+        "Title": " Experience of Direct Numerical Simulation of Turbulence on Supercomputers  Communications in Computer and Information Science. 2016.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Беляев К.В, Гарбарук А.В, Стрелец M.Х, Шур M.Л, Spalart P.R",
+        "Title": " Опыт прямого численного моделирования турбулентности на суперкомпьютерах  Труды международной конференции “Суперкомпьютерные дни в России 2016”, Москва, 2016. С.357-364.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Современные подходы к моделированию турбулентности: учеб. Пособие СПб: Изд-во Политехн. ун-та, 2016. - 233 с.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Гарбарук А.В, Грицкевич М.С, Калмыков С.Г, Сасин М.Э",
+        "Title": " Вычислительная имитация свечения лазерной плазмы при воздействии ударных волн на распределение плотности в газоструйной мишени  Письма в журнал технической физики. 2016. т. 19. стр. 38-45.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Матюшенко А.А, Гарбарук А.В",
+        "Title": " Численное исследование влияния трехмерных грибообразных структур на характеристики  Тепловые процессы в технике. 2016. № 1. С. 31-36.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Грицкевич М.С, Гарбарук А.В",
+        "Title": " Некоторые особенности применения гибридных RANS-LES подходов при расчете турбулентных течений на неструктурированных сетках  Тепловые Процессы в Технике. 2016. 8 № 2. 57-63.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Стабников А.С, Гарбарук А.В",
+        "Title": " Использование LES вращающегося сдвигового слоя для модификации поправки на кривизну линий тока и вращение  Тепловые процессы в технике. 2016. № 4. с. 146-150.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Матюшенко А.А, Гарбарук А.В, Стрелец М",
+        "Title": " Х. Оценка преимуществ нелинейных моделей турбулентности при расчете течений в каналах прямоугольного сечения  Тепловые процессы в технике. 2016. № 5. С. 195-200.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Coleman, G.N, Garbaruk, A, Spalart, P.R",
+        "Title": " Direct numerical simulation, theories and modelling of wall turbulence with a range of pressure gradients  Flow Turbulence Combustion, 2015, v. 95, no. 2, p.261–276.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Mockett, C, Fuchs, M, Garbaruk, A,Thiele, F, Shur, M, Strelets, M, Travin, A, Spalart, P",
+        "Title": " Two non-zonal approaches to accelerate RANS to LES transition of free shear layers in DES  Notes on Numerical Fluid Mechanics. 2015. Т. 130. С. 187-201.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Гусева Е.К, Гарбарук А.В, Стрелец М.Х. Тестирование подсеточного масштаба, адаптированного к слоям смешения, в рамках метода DDES / Сборник трудов XX школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (24—29 мая 2015 г, г",
+        "Title": " Звенигород). — М.: Издательский дом МЭИ, 2015. — С. 45-48.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Грицкевич М.С, Гарбарук А.В. Некоторые особенности применения гибридных RANS-LES подходов при расчете турбулентных течений на неструктурированных сетках / Сборник трудов XX школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (24—29 мая 2015 г, г",
+        "Title": " Звенигород). — М.: Издательский дом МЭИ, 2015. — с. 40–44.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Матюшенко А.А, Гарбарук А. В. Численное исследование влияния трехмерных грибообразных структур на характеристики обтекания аэродинамических профилей / Сборник трудов XX школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (24—29 мая 2015 г, г",
+        "Title": " Звенигород). — М.: Издательский дом МЭИ, 2015. — с. 72-75.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Стабников А.С, Гарбарук А.В. Модификация поправки на кривизну линий тока и вращение в модели SST на основе LES вращающегося сдвигового слоя / Сборник трудов XX школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева (24—29 мая 2015 г, г",
+        "Title": " Звенигород). — М.: Издательский дом МЭИ, 2015. — с. 89-92.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Гусева Е.К, Гарбарук А.В, Стрелец М.Х",
+        "Title": " Тестирование метода DDES с подсеточным масштабом, адаптированным к слоям смешения  Тепловые процессы в технике. 2015. Т. 7. № 12. С. 552-557.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Грицкевич М.С, Гарбарук А.В",
+        "Title": " Применение пристенных функций для расчета гидродинамики и конвективного теплообмена в рамках гибридных RANS-LES подходов  Тепловые Процессы в Технике. 2015 - Т. 7. - №4 - с. 146–151.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Матюшенко А.А, Гарбарук А. В, Смирнов П. Е, Ментер Ф",
+        "Title": " Р. Численное исследование влияния ламинарно-турбулентного перехода на характеристики аэродинамических профилей  Тепловые процессы в технике. 2015. Т. 7. № 8. С. 338-343.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Mockett C, Fuchs M, Garbaruk A, Shur M, Spalart P, Strelets M, Thiele F, Travin A",
+        "Title": " Two non-zonal approaches to accelerate RANS to LES transition of free shear layers in DES  Proceedings of 5th Symposium on Hybrid RANS-LES Methods (HRLM5). 19-21 March 2014, TEXAS A&M University, College Station, Houston, USA. 15 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Coleman G.N, Garbaruk A, Spalart P.R",
+        "Title": " Direct numerical simulation and theories of wall turbulence with a range of pressure gradients  Proceedings of 10th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM10). 17-19 September, 2014, Maribella, Spain (ed. Rodi W.). 8 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Garbaruk A, Shur M, Spalart P.R, Strelets M",
+        "Title": " Jet noise computation based on enhanced DES formulations accelerating RANS-TO-LES transition in free shear layers  Proceedings of the Third International Workshop “Computational Experiment in Aeroacoustics” Sept.24-27, 2014, Svetlogorsk, Russia, P.123-127.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Kopiev V.F, Chernyshev S.A, Garbaruk A.V, Strelets M.Kh, Shur M.L",
+        "Title": " Large scale structures in subsonic tone excited jet and their diagnostics in experiment and in numerical simulations  Proceedings of the Third International Workshop “Computational Experiment in Aeroacoustics” Sept.24-27, 2014, Svetlogorsk, Russia, P.108-112.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Стабников А.С, Гарбарук А.В",
+        "Title": " Использование модели рейнольдсовых напряжений для вывода поправки на кривизну линий тока и вращение системы координат  Неделя науки СПбГПУ: материалы научно-практической конференции с международным участием. Лучшие доклады. - СПб.: Изд-во Политехн. ун-та, 2014. - C.217-221.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Frank T, Menter F.R",
+        "Title": " Investigation of the thermal mixing in a T-junction flow with different SRS approaches  Nuclear Engineering and Design. - 2014. - Vol.279. - P.83-90.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Menter F.R",
+        "Title": " Computation of wall bounded flows with heat transfer in the framework of SRS approaches  Journal of Physics: Conference Series. - 2014. - Vol.572. - P.012057.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Matyushenko A.A, Garbaruk A.V",
+        "Title": " Scale resolving simulations of the water flow through a rod bundle with split-type spacer grid  Journal of Physics: Conference Series. - 2014. - Vol.572. - P.012058.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Spalart P.R, Garbaruk A.V, Strelets M.K",
+        "Title": " RANS Solutions in Couette flow with streamwise vortices  International Journal of Heat and Fluid Flow. - 2014. - Vol.49. - P.128-134.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Garbaruk A.V, Gritskevich M.S, Kalmykov S.G, Mozharov A.M, Petrenko M.V, Sasin M.E",
+        "Title": " Shock waves in gas-jet target of a laser-produced-plasma short-wave-radiation source with two-pulse plasma excitation  Technical Physics Letters. - November 2014. – Vol.40. - Issue 11. - P.980-983.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Гарбарук А.В, Спаларт Ф.Р, Стрелец М.Х, Шур М.Л",
+        "Title": " Расчет аэродинамики и шума при обтекании тандема цилиндров  Математическое моделирование. - 2014. - Т.26. - №6. - С.119-136.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Гарбарук А.В, Грицкевич М.С, Калмыков С.Г, Можаров А. М, Петренко М. В, Сасин М",
+        "Title": " Э. Ударные волны в газоструйной мишени лазерно-плазменного источника коротковолнового излучения при двухимпульсной схеме возбуждения плазмы  Письма в ЖТФ. - 2014. - Т.40. - №21. - С.97-103.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Garbaruk A, Niculin D, Strelets M, Dyadkin A, Krylov A, Stekenius K",
+        "Title": " Comparative study of different turbulence modeling approaches to prediction of transonic and supersonic flows past a reentry capsule with balance flaps  EUCASS Proceedings Series – Advances in AeroSpace Sciences 5, 2013. pp. 3–22.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Gritskevich M.S, Garbaruk A.V, Menter F.R",
+        "Title": " Fine-tuning of DDES and IDDES formulations to the k-w Shear Stress Transport model  EUCASS Proceedings Series – Advances in AeroSpace Sciences 5, 2013, pp. 23–42.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Грицкевич М.С, Гарбарук А.В",
+        "Title": " Сравнение различных подходов к моделированию турбулентности для расчета тепломассообмена в Т-образном соединении двух труб  Сборник трудов XIX Школы-семинара молодых ученых и специалистов под руководством академика РАН А.И.Леонтьева. 2013, стр. 92–96.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Грицкевич М.С, Гарбарук А.В",
+        "Title": " Сравнение различных подходов к моделированию турбулентности для расчета тепломассообмена в Т-образном соединении двух труб  Тепловые Процессы в Технике, 2013, 10, стр. 434–439.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Матюшенко А.А, Гарбарук А.В",
+        "Title": " Расчет течения вдоль пучка цилиндров при наличии локальных завихрителей потока  Тепловые процессы в технике 2013, 11, стр. 482.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Шур М.Л, Гарбарук А.В, Стрелец М.Х, Кравченко С.В, Spalart P.R",
+        "Title": " Вычислительная система для расчета шума сложных струй на основе метода моделирования крупных вихрей (LES)  В сборнике \"Современные научные проблемы и технологии в гражданской авиации. 20 лет сотрудничества ученых России и компании Боинг (1993-2013)\". М.: Наука, 2013, 300 с. С.64-71.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Стрелец М. Х, Шур М. Л, Травин А.К, Гарбарук А. В. Суперкомпьютерные технологии: новая эра в моделировании турбулентности / В сборнике  Стрелец М. Х, Шур М. Л, Травин А.К, Гарбарук А. В. Суперкомпьютерные технологии: новая эра в моделировании турбулентности / В сборнике \"Суперкомпьютерные технологии в науке, образовании и промышленности\" / Под редакцией В.А.Садовничего, Г.И.Савина, Вл.В.Воеводина. -М.: Издательство Московского университета, 2012.-232 с, ил, стр. 55–62, стр",
+        "Title": " 55–62.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Viswanathan, K, Spalart, P. R, Czech, M. J, Garbaruk, A, Shur, M",
+        "Title": " Tailored Nozzles for Jet Plume Control and Noise Reduction  AIAA Journal, 50(10), 2115–2134.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Gritskevich, M. S, Garbaruk, A. V, Schutze, J, Menter, F",
+        "Title": " R. Development of DDES and IDDES Formulations for the k-w Shear Stress Transport Model  Flow, Turbulence and Combustion, 88(3), 431–449.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Gritskevich, M, Garbaruk, A, Menter, F",
+        "Title": " Fine-tuning of DDES and IDDES formulations to the k-w Shear Stress Transport model  Progress in Propulsion Physics, 5(91), 43–62.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Гарбарук А. В, Стрелец М. Х, Шур М",
+        "Title": " Л. Моделирование турбулентности в расчетах сложных течений. Изд-во Политехн. ун-та. 88 стр.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Грицкевич, М. С, Гарбарук, А",
+        "Title": " В. Встроенный LES с использованием объемного источника турбулентных пульсаций  Научно-технические ведомости Политехнического университета. Физико-математические науки, 2012. №141(1), 27–35.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Garbaruk A, Niculin D, Strelets M, Dyadkin А, Krylov A, Stekenius K",
+        "Title": " Comparative study of different turbulence modelling approaches to prediction of transonic and supersonic flows past a re-entry capsule with balance flaps  In: 4th European Conference for Aerospace Sciences (EUCASS-4). Saint-Petersburg; 2011:4-11. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-17594.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Garbaruk A.V, Crouch J.D",
+        "Title": " Quasi-three dimensional analysis of global instabilities: onset of vortex shedding behind a wavy cylinder  Journal of Fluid Mechanics. 2011;677:572-588. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11318.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Garbaruk A.V, Demidov D. A, Kalmykov S. G, Sasin M",
+        "Title": " E. Computational optimization analysis of a gas-jet target in a laser-plasma short-wave radiation source  Technical Physics, 2011, Vol. 56, No. 6, pp. 766-775. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11319.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Gritskevich M. S, Garbaruk A. V, Menter F",
+        "Title": " R. Fine-tuning of DDES and IDDES formulations to the k-w Shear Stress Transport model  In: 4th European Conference for Aerospace Sciences (EUCASS-4). Saint-Petersburg; 2011:1-10. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-17595.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Shur M.L, Garbaruk A.V, Kravchenko S, Spalart P.R, Strelets M.K. LES-based numerical system for noise prediction in complex jets. In: Computational Fluid Dynamics 2010. Ed.: A.Kuzmin. - Springer-Verlag Berlin Heidelberg, 2011, 954p, pp",
+        "Title": " 163-168. (скачать)",
+        "Url": "http://www.mendeley.com/download/public/3096621/3859363862/9b91aa62b65071c0bfcb9282831a4d4501afdcd2/dl.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Viswanathan K, Spalart P.R, Czech M.J, Garbaruk A.V, Shur M.L",
+        "Title": " tailored nozzles for jet plume control and noise reduction  AIAA Paper, AIAA-2011-2788, 2011 (34 pp.)",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Гарбарук А",
+        "Title": " В. , Грицкевич М. С. Применение двустадийного RANSLES подхода для расчета аэродинамики течений с отрывной зоной умеренного размера  Тепловые процессы в технике. 2011, N11, стр. 484-490. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-17593.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Гарбарук А.В, Демидов Д.А, Калмыков С.Г, Сасин М.Э",
+        "Title": " Расчетное оптимизационное исследование газоструйной мишени в лазерно-плазменном источнике коротковолнового излучения  Журнал технической физики. 2011;81(6):20-29. (скачать)",
+        "Url": "http://journals.ioffe.ru/jtf/2011/06/p20-29.pdf"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Balakrishnan R, Garbaruk A, Shur M.L, Spalart P, Strelets M",
+        "Title": " DDES and IDDES of tandem cylinders flow  Trilateral Russian-French-German workshop \"Computational experiment in aeroacoustics\", Svetlogorsk, September 22-25, 2010. M.: Maks Press, 2010, p.10-12. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6638.pdf"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A, Leicher S, Mockett C, Spalart P. M.L, Strelets M.Kh, Thiele F. Evaluation of time sample and span size effects in DES of nominally 2D airfoils beyond stall. In: Peng, S.-H, Doerffer, P, Haase, W",
+        "Title": " (eds) \"Progress in Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 111. Springer, 2010, pp. 87-99. (скачать)",
+        "Url": "http://www.springerlink.com/content/b05t603x68m2210g/"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R, Balakrishnan R",
+        "Title": " DDES and IDDES of tandem cylinders  In: CD ROM Proceedings of the AIAA-NASA Workshop on Benchmark Problems for Airframe Noise Computations - I (BANC-I). June 10-11, 2010, Stockholm, Sweden, 12 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R, Balakrishnan R",
+        "Title": " DDES and IDDES of tandem cylinders. Report ANL-1026, Argonne National Laboratory, Leadership Computing Facility Division, Sept. 2010. 16 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A.V, Demidov D.A, Kalmykov S.G, Sasin M.E",
+        "Title": " Computational optimization of the gas-jet target in the LPP short-wave radiation source  International Workshop on Extreme Ultraviolet Sources, November 13-15, 2010, University College Dublin, Ireland, Workshop Proceedings.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Menter F. R, Garbaruk A, Smirnov P, Cokljat D. Scale-adaptive simulation with artificial forcing. In: Peng, S.-H, Doerffer, P, Haase, W",
+        "Title": " (eds) \"Progress in Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 111. Springer, 2010, pp. 235-246. (скачать)",
+        "Url": "http://www.springerlink.com/content/800113032txw5p33/"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Гарбарук А.В, Демидов Д.А, Калмыков С.Г, Сасин М.Э",
+        "Title": " Численное моделирование газовой струи-мишени в лазерно-плазменном источнике коротковолнового излучения  Письма в ЖТФ, 2010, том 36, вып. 23, стр. 9-16. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6671.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Crouch J.D, Garbaruk A, Magidov D, Travin A. Origin of transonic buffet on aerofoils // J. Fluid Mech, 2009, vol",
+        "Title": " 628, pp. 357-369. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6683.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Leicher S, Mockett C, Spalart P, Shur M.L, Strelets M.Kh, Thiele F",
+        "Title": " Evaluation of time sample and span size effects in DES of nominally 2D airfoils beyond stall  Proceedings of Third Symposium on Hybrid RANS-LES Methods, 10-12 June 2009, Gdansk, Poland (19 pages).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " DES and its modifications and enhancements. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 19-32.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " NACA0021 at 60 deg. incidence. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 127-139. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6685.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Supersonic base flow. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 197-206. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6686.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Menter F. R, Garbaruk A, Smirnov P, Cokljat D",
+        "Title": " Scale-adaptive simulation with artificial forcing  Proceedings of Third Symposium on Hybrid RANS-LES Methods, 10-12 June 2009, Gdansk, Poland, 12 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Menter F. R, Garbaruk A.V, Egorov Y",
+        "Title": " Explicit algebraic Reynolds stress models for anisotropic wall-bounded flows  Proceedings of 3rd European Conference for Aero-Space Sciences (EUCASS), July 6-9th, 2009, Versailles, 14 pages. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6688.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Spalart, P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Grid design and the fate of eddies in external flows  In: Proc. of Workshop on Quality and Reliability of Large-Eddy Simulations II, 9-11 September 2009, Pisa, Italy (16 pages). (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6689.pdf"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Crouch J, Garbaruk A, Magidov D",
+        "Title": " Origin and structure of transonic buffet on airfoils  AIAA Paper, AIAA-2008-4233, 12p. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-17046.pdf"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Analysis of jet noise reduction concepts by large-eddy simulation. In the book: Jet Aeoacoustics (G. Ramesh editor), 205-249, Multi-Science Publishing Co LTD.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Crouch, J, Garbaruk A, Magidov D. Predicting the onset of flow unsteadiness based on global instability // Journal of Computational Physics, 2007, v. 224, No. 2, pp",
+        "Title": " 924-940. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6680.pdf"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Analysis of jet-noise-reduction concepts by large-eddy simulation  Int. Journal of Aeroacoustics, 2007, v6, No.3, pp.243-285. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6681.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Czech M.J, Crouch J.D, Stoker R.W, Strelets M.Kh, Garbaruk A",
+        "Title": " Cavity noise generation for circular and rectangular vent holes  12th AIAACEAS Aeroacoustics Conference (27th AIAA Aeroacoustics Conference) 8 - 10 May 2006, Cambridge, Massachusetts, AIAA Paper, AIAA 2006-2508. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6674.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Garbaruk A, Magidov D, Shur M, Strelets M, Travin A",
+        "Title": " Contribution by SPTU: support of partners' efforts directed to implementation of DES Technology. In: Notes on Numerical Fluid Mechanics and Multidisciplinary Design. V.94. \"FLOMANIA - A European Initiative on Flow Physics Modelling\", W.Haase, B.Aupoix, U.Bunge, D.Schwamborn (eds.). Springer-Verlag, Berlin, Heidelberg, 2006, pp. 101-108.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Further steps in LES-based noise prediction for complex jets  AIAA Paper-2006-0485, 44th Aerospace Sciences Meeting and Exhibit, Reno, NV, 2006. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6675.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Гарбарук А.В, Магидов Д.Р",
+        "Title": " Новый подход к анализу влияния внешних воздействий на устойчивость внешних течений  Научно-технические ведомости СПбГПУ. - 2006. - N3. - С. 139-144. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6677.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Гарбарук А.В, Спаларт Ф.Р, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Численное моделирование управления отрывом с помощью механических и струйных вихрегенераторов  Математическое моделирование, 2006. Т. 18, N3, С. 55-68. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6676.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Шур М.Л, Гарбарук А.В",
+        "Title": " Расчет аэродинамики и шума турбулентных струй, истекающих из двухконтурных сопел с нормальным и косым срезом, на основе метода моделирования крупных вихрей  Материалы VI международной конференции по неравновесным процессам в соплах и струях, Санкт-Петербург, 26 июня - 1 июля 2006 г. С. 347-349.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Crouch J.D, Garbaruk A, Magidov D",
+        "Title": " Predicting the onset of flow unsteadiness based on stability analysis  Proceeding of European Conference For Aerospace Sciences (EUCASS), 2005. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6670.pdf"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Detached-eddy simulation of a linear compressor cascade with tip gap and moving wall  Proceedings of symposium on hybrid RANS-LES methods, Stockholm, 14-15 July, 2005 (eds. W.Haase, S.-H.Peng). (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6673.pdf"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Лапин Ю.В, Гарбарук А.В, Стрелец М.Х",
+        "Title": " Алгебраические модели турбулентности для пристенных канонических течений (немного истории и некоторые новые результаты)  Научно-технические ведомости N 2 (36). Издательство Политехнического университета. Санкт-Петербург, 2004. Стр. 81-95. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6669.pdf"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R. numerical study of wind-tunnel walls effects on transonic airfoil flow // AIAA J, 2003, v.41, No.6, pp",
+        "Title": " 1046-1054. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6665.pdf"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л",
+        "Title": " Расчет трехмерного турбулентного течения в \"S\" образном канале прямоугольного сечения  Теплофизика высоких температур, 2003. т. 41, N1, стр.1-8. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6667.pdf"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Crouch J, Garbaruk A, Shur M, Strelets M",
+        "Title": " Predicting buffet onset from temporal instability of steady RANS solutions  Bulletin of the American Physical Society, 2002, vol. 47, N. 10, p. 68.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Гарбарук А.В, Лапин Ю.В, Стрелец М.Х",
+        "Title": " Турбулентный пограничный слой при одновременном влиянии продольного перепада давления, вдува (отсоса) и поперечной кривизны поверхности  Теплофизика высоких температур, 2002, т.40, N3, с.436-441. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11213.pdf"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Гарбарук А.В, Лапин Ю.В, Стрелец М.Х",
+        "Title": " Алгебраическая модель турбулентности для течений с максимумом касательного напряжения внутри пограничного слоя  Теплофизика высоких температур, 2001, т. 39, N 4, С.589-598. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11211.pdf"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Лапин Ю.В, Гарбарук А.В, Стрелец М.Х",
+        "Title": " Новые алгебраические модели турбулентности для пристенных течений  В кн.: Физ. основы эксп. и мат. моделирования процессов газодинамики и тепломассообмена в энерг. установках: Труды 13-ой школы-семинара под руководством А.И. Леонтьева. Том I.- М.: Изд-во МЭИ, 2001. Стр.21-27. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11212.pdf"
+    },
+    {
+        "Year": "1999",
+        "Authors": "Гарбарук А.В, Лапин Ю.В, Стрелец М.Х",
+        "Title": " Оценка возможностей явных алгебраических моделей рейнольдсовых напряжений применительно к расчету пристенных пограничных слоев  Теплофизика высоких температур, 1999, т. 37, N 6, с.920-927. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6695.pdf"
+    },
+    {
+        "Year": "1999",
+        "Authors": "Гарбарук А.В, Лапин Ю.В, Стрелец М.Х",
+        "Title": " Простая алгебраическая модель турбулентности для расчета турбулентного пограничного слоя с положительным градиентом давления  Теплофизика высоких температур, 1999, т. 37, N 1, С.87-91. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11209.pdf"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Александров А.В, Гарбарук А.В, Ковбаса Б.А, Лашков М.А",
+        "Title": " Программируемый измерительный контроллер для распредустройств системы электроснабжения. В сборнике \"Современные проблемы электрификации железных дорог России\", ред. А.Т.Бурков, С-Пб, ПГУПС, 1998, с. 17-21.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Гарбарук А.В, Лапин Ю.В, Стрелец М.Х",
+        "Title": " Применение обратного метода решения уравнений пограничного слоя для тестирования моделей турбулентности  Теплофизика Высоких Температур,1998, N4, c. 607-616. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-11207.pdf"
+    }
+]

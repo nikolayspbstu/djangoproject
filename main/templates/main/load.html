@@ -1,0 +1,21 @@
+{% extends 'main/layout.html' %}
+
+{% block content %}
+  <form class="form-class" method="GET">
+      {{ form.as_p }}
+      <button type="submit">Поиск</button>
+      <a class='donlowad-json' href="{% url 'download_articles' %}?{{ request.GET.urlencode }}&format=json">Скачать в JSON</a>
+  </form>
+
+
+    {% for article in articles %}
+      <div class="article">
+        <h2>{{ article.title }}</h2>
+        <p>{{ article.content }}</p>
+        <p>{{ article.year }}</p>
+      </div>
+    {% endfor %}
+
+
+
+{% endblock %}

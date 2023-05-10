@@ -1,0 +1,890 @@
+[
+    {
+        "Year": "2022",
+        "Authors": "Suzuki T, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Potential Amplification Mechanism of Rotor–Stator-Interaction Noise via Spiral-Poiseuille-Flow Instability  AIAA Journal, 2022, Vol. 60, N. 4, pp. 2441-2457, doi: 10.25141.J060400. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Garbaruk A.V, Strelets M.K, Shur M.L, Dyadkin A.A, Rybak S, Mikhailov M.V",
+        "Title": " Simulation of the Impact of the Wakes of an Emergency Rescue Unit’s Nozzles on the Surface of a Manned Spacecraft  Mathematical Models and Computer Simulations. – 2022. – Vol. 14. – No 1. – P. 81-91. – DOI 10.1134S2070048222010112. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/profile/Andrey-Garbaruk/publication/358753499_Simulation_of_the_Impact_of_the_Wakes_of_an_Emergency_Rescue_Unit's_Nozzles_on_the_Surface_of_a_Manned_Spacecraft/links/621cece5579f1c041720d9a2/Simulation-of-the-Impact-of-the-Wakes-of-an-Emergency-Rescue-Units-Nozzles-on-the-Surface-of-a-Manned-Spacecraft.pdf"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Garbaruk A.V, Strelets M.K, Shur M.L, Dyadkin A.A, Rybak S, Mikhailov M.V, Dankov B.N, Kosenko A.P",
+        "Title": " Two-Stage RANS-DDES Model and Results of Computations of Unsteady Loads on the Reentry Capsule and Engine Compartment of a Manned Spacecraft in the Course of Their Emergency Separation  Mathematical Models and Computer Simulations. – 2022. – Vol. 14. – No 1. – P. 147-158. – DOI 10.1134S2070048222010100. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/profile/Andrey-Garbaruk/publication/358764315_Two-Stage_RANS-DDES_Model_and_Results_of_Computations_of_Unsteady_Loads_on_the_Reentry_Capsule_and_Engine_Compartment_of_a_Manned_Spacecraft_in_the_Course_of_Their_Emergency_Separation/links/621cecbf9947d339eb70b2d7/Two-Stage-RANS-DDES-Model-and-Results-of-Computations-of-Unsteady-Loads-on-the-Reentry-Capsule-and-Engine-Compartment-of-a-Manned-Spacecraft-in-the-Course-of-Their-Emergency-Separation.pdf"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Гусева Е.К, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Численное моделирование криволинейного турбулентного следа при наличии неблагоприятного градиента давления  Вычислительный эксперимент в аэроакустике и аэродинамике: Сборник тезисов девятой российской конференции, Светлогорск, Калининградской области, 26 сентября – 01 октября 2022 года. – Москва: Институт прикладной математики им.М.В.Келдыша РАН, 2022.– C. 109-113. ISBN 978-5-98354-064-4. – DOI 10.20948ceaa-2022. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Travin A.K",
+        "Title": " Direct numerical simulation of the two-dimensional speed bump flow at increasing Reynolds numbers  International Journal of Heat and Fluid Flow, 2021, Vol. 90, Paper No. 108840.  (скачать)\n",
+        "Url": "https://doi.org/10.1016/j.ijheatfluidflow.2021.108840"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Suzuki T, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Spiral Flow Instability in Interstage Flow of High-Speed Fan Rigs  AIAA Paper, AIAA-2021-2259, Aug. 2021. DOI: 10.25146.2021-2259. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Гарбарук A.В, Стрелец M.Х, Шур M.Л, Дядькин A.A, Михайлов M.В, Рыбак С.П, Даньков Б.Н, Косенко А.П",
+        "Title": " Двухэтапная RANS-DDES модель и результаты расчета нестационарных воздействий на возвращаемый аппарат и двигательный отсек космического корабля при их аварийном разделении  Математическое моделирование. – 2021. – Т. 33. – № 7. – С. 121-138. – DOI: 10.20948mm-2021-07-09. (скачать)\n",
+        "Url": "http://www.mathnet.ru/rus/mm4308"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дядькин А.А, Рыбак С.П, Михайлов M.В",
+        "Title": " Моделирование воздействия следов сопел блока аварийного спасения на поверхность пилотируемого космического корабля  Математическое моделирование. – 2021. – Т. 33. – № 7. – С. 18-34. – DOI: 10.20948mm-2021-07-02. (скачать)\n",
+        "Url": "http://www.mathnet.ru/rus/mm4301"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Guseva E, Shur M, Strelets M, Travin A, Breitenstein W, Radespiel R, Scholz P, Burnazzi M, Knopp T",
+        "Title": " ExperimentalNumerical Study of Turbulent Wake in Adverse Pressure Gradient  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2020, v. 143, p.401-412. DOI: 10.1007978-3-030-27607-2_33 SCOPUS. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Shur M, Strelets M, Travin A, Suzuki T, Spalart P",
+        "Title": " Unsteady Simulation of Sound Propagation in Turbulent Flow inside a Lined Duct Using a Broadband Time-Domain Impedance Model  AIAA Paper, AIAA-2020-2535, June 2020. DOI: 10.25146.2020-2535 SCOPUS \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Suzuki T, Shur M, Strelets M, Travin A",
+        "Title": " Potential Amplification Mechanism of Rotor-Stator-Interaction Noise via Spiral-Poiseuille-Flow Instability of Rotor Wakes  AIAA Paper, AIAA-2020-2567, June 2020. DOI: 10.25146.2020-2567 SCOPUS \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Гусева Е.К, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Расчет эволюции турбулентных следов под воздействием неблагоприятного градиента давления с помощью метода моделирования крупных вихрей  Математическое моделирование, 2020, т.32, № 6, с.3-20. DOI: 10.20948mm-2020-06-01 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Breitenstein W, Scholz P, Radespiel R, Burnazzi M, Knopp T, Guseva E, Shur M, Strelets M",
+        "Title": " Wind Tunnel Experiment for Symmetric Wakes in Adverse Pressure Gradients  AIAA Paper. AIAA-2019-1875, Jan. 2019 (15 pp). DOI: 10.25146.2019-1875.                                                                                                          \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Guseva Е.К, Shur M.L, Strelets M.Kh, Travin A.K. Numerical Simulation of Evolution of Turbulent Wake Subjected to Strong Adverse Pressure Gradient with the use of Zonal RANSLES approach / Суперкомпьютерные дни в России: Труды международной конференции. 23-24 сентября 2019 г, г.Москва, 2019, с",
+        "Title": " 33-39. DOI: 10.29003m680.RussianSCDays.           \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Spalart P.R, Shur M, Strelets M, Travin A, Paschal K.B, Wilkinson S",
+        "Title": " Experimental and numerical study of the turbulent boundary layer over shallow dimples  Int. J. Heat and Fluid Flow, Aug. 2019, v.78, article No. 108438 (9 pp). DOI: 10.1016j.ijheatfluidflow.2019.108438.                                                                       \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Spalart P.R, Belyaev K.V, Shur M.L, Strelets M.K, Travin A.K",
+        "Title": " The differences in noise predictions based on solid and permeable surface Ffowcs Williams–Hawkings integral solutions  International Journal of Aeroacoustics, 2019, v. 18, No. 6-7, p. 621–646. DOI: 10.11771475472X19878934.                                                           \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Guseva E, Shur M, Strelets M, Travin A, Breitenstein W, Radespiel R, Scholz P, Burnazzi M, Knopp T",
+        "Title": " ExperimentalNumerical Study of Turbulent Wake in Adverse Pressure Gradient  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2020, v. 143, p.401-412. DOI: 10.1007978-3-030-27607-2_33.                                       \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Burnazzi M, Knopp T, Strelets M, Shur M, Travin A, Breitenstein W, Scholz P, Radespiel R",
+        "Title": " Prediction Capabilities of Two Reynolds Stress Turbulence Models for a Turbulent Wake Subjected to Adverse Pressure Gradient  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2020, v. 142, p. 565-575. DOI: 10.1007978-3-030-25253-3_54.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Suzuki T, Spalart P.R, Shur M, Strelets M, Travin A",
+        "Title": " Unsteady Simulations of a FanOutlet-Guide-Vane System: Broadband-Noise Computation  AIAA Journal, 2019, v.57, 14 pp. DOI: 10.25141.J058177.                                                                                                                                                      \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Дядькин А.А, Рыбак С.П, Трашков Г.А, Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дроздов С.М, Столяров Е.П",
+        "Title": " Расчетно-экспериментальные исследования пульсаций давления на поверхности космической головной части с пилотируемым транспортным кораблем на участке выведения  Космическая техника и технологии, 2019, № 1, с. 5-22.                            \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Suzuki T, Spalart P.R, Shur M.L, Strelets M.K, Travin A.K",
+        "Title": " Unsteady simulations of a fanoutlet-guide-vane system. Part 3: Broadband noise computation  AIAA Paper, AIAA 2018-3918. DOI: 10.25146.2018-3918. 18 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Shur M, Strelets M, Travin A",
+        "Title": " ExperimentalNumerical Study of Ducted-Fan Noise: Effect of Duct Inlet Shape  AIAA Journal, 2018, v.56, No.3, pp. 979-996. DOI: 10.25141.J055870.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Shur M, Strelets M, Travin A, Spalart P.R, Suzuki T",
+        "Title": " Unsteady Simulations of a FanOutlet-Guide-Vane System: Aerodynamics and Turbulence  AIAA Journal, 2018, v.56, No.6, pp. 2283-2297. DOI: 10.25141.J056645.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Suzuki T, Spalart P.R, Shur M, Strelets M, Travin A",
+        "Title": " Unsteady Simulations of a FanOutlet-Guide-Vane System: Tone-Noise Computation  AIAA Journal, 2018, v.56, No.9, pp. 3558-3569. DOI: 10.25141.J056646.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Fuchs M, Mockett C, Shur M, Strelets M, Kok J.C",
+        "Title": " Single-Stream Round Jet at M=0.9  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 125-137. DOI: 10.1007978-3-319-52995-0_6.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " 2D wall-mounted hump  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 173-187. DOI: 10.1007978-3-319-52995-0_9.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Shur M, Strelets M, Travin A, Probst A, Probst S, Schwamborn D, Deck S, Skillen A, Holgate J, Revell A",
+        "Title": " Improved Embedded Approaches  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 51-87. DOI: 10.1007978-3-319-52995-0_3.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Mockett C, Fuchs M, Thiele F, Wallin S, Peng S.H, Deck S, Kok J.C, van der Ven H, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Non-zonal Approaches for Grey Area Mitigation  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 17-50. DOI: 10.1007978-3-319-52995-0_2.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л, Дядькин А.А, Рыбак С.П",
+        "Title": " Расчетные исследования распределения давления и пульсаций давления на пилотируемом транспортном комплексе при отделении ОГБ  Труды 7 Всероссийской конференции «Вычислительный эксперимент в аэроакустике», 17-22 сентября 2018, Светлогорск , стр. 75-79.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Shur M, Strelets M, Travin A, Spalart P, Suzuki T",
+        "Title": " Unsteady Simulations of a FanOutlet-Guide-Vane System. Part 1: Aerodynamics and Turbulence  AIAA Paper AIAA 2017-3875. DOI: 10.25146.2017-3875. 18 p. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Shur M, Strelets M, Travin A, Spalart P, Suzuki T",
+        "Title": " Unsteady Simulations of a FanOutlet-Guide-Vane System. Part 2: Tone Noise Computation  AIAA Paper AIAA 2017-3876. DOI: 10.25146.2017-3876. 15 p. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Schram C, Christophe J, Shur M, Strelets M, Travin A, Wohlbrandt A, Guerin S, Ewert R, Martinez-Lera P, Tournour M, Francois B, Roger M",
+        "Title": " Fan noise predictions using scale-resolved, statistical, stochastic and semi-analytical models  AIAA Paper AIAA 2017-3386. 23 p. (скачать)\r\n",
+        "Url": "https://doi.org/10.2514/6.2017-3386"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Smirnov E.M, Smirnovsky A.A, Schur N.A, Zaitsev D.K, Smirnov P.E",
+        "Title": " Comparison of RANS and IDDES solutions for turbulent flow and heat transfer past a backward-facing step  Heat and Mass Transfer, 2017 (в печати). (скачать)\r\n",
+        "Url": "https://doi.org/10.1007/s00231-017-2207-0"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Mockett C, Fuchs M, Thiele F, Wallin S, Peng S.H, Deck S, Kok J.C, van der Ven H, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Non-zonal approaches for grey area mitigation  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 17-50. DOI: 10.1007978-3-319-52995-0_2 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Shur M, Strelets M, Travin A, Probst A, Probst S, Schwamborn D, Deck S, Skillen A, Holgate J, Revell A",
+        "Title": " Grey Area Mitigation for Hybrid RANS-LES Methods: Improved Embedded Approaches  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 51-87. DOI: 10.1007978-3-319-52995-0_3 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Fuchs M, Mockett C, Shur M, Strelets M, Kok J.C",
+        "Title": " Grey Area Mitigation for Hybrid RANS-LES Methods: Single-Stream Round Jet at M = 0.9  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, v. 134, pp. 125-137. DOI: 10.1007978-3-319-52995-0_6 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " 2D wall-mounted hump  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2018, V.134, pp. 173-187. DOI: 10.1007978-3-319-52995-0_9 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Travin A, Sack S, Shur M, Abom M, Strelets M",
+        "Title": " Numerical education of active multi-port data for in-duct obstructions  Journal of Sound and Vibration, V. 411,pp. 328-345. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Medvedev Yu. V, Kopiev V. F, Shur M. L, Travin A. K, Belyaev I. V, Zamtfort B",
+        "Title": " S. Assessment of community noise for a medium-range airplane with open-rotor engines  Acoustical Physics, V. 63, N. 6, pp. 723-730. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Spalart P.R, Belyaev K.V, Garbaruk A.V, Shur M.L, Strelets M. Kh, Travin A.K. Large-Eddy and Direct Numerical Simulations of the Bachalo-Johnson Flow with Shock-Induced Separation // Flow Turbulence and Combustion, 2017, v.99, pp",
+        "Title": " 865-885. DOI: 10.1007s10494-017-9832-z. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Probst A, Schwamborn D, Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " Evaluation of grey area mitigation tools within zonal and non-zonal RANS-LES approaches in flows with pressure induced separation  Int. J. of Heat and Fluid Flow, 2017, v. 68, pp. 237–247. (скачать)\r\n",
+        "Url": "https://doi.org/10.1016/j.ijheatfluidflow.2017.08.008"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Probst A, Schwamborn D, Garbaruk A, Guseva E, Shur M, Strelets M, Travin A",
+        "Title": " Evaluation of grey area mitigation tools within zonal and non-zonal rans-les approaches in flows with pressure induced separation  Proceedings of 11th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Palermo, Italy, 2016. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Spalart P, Belyaev K, Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Large-eddy and direct numerical simulations of the Bachalo-Johnson flow with shock-induced separation  Proceedings of 11th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Palermo, Italy, 2016.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Strelets M, Shur M, Travin A, Spalart P.R",
+        "Title": " The delay of RANS-to-LES transition in Hybrid RANS-LES approaches and some recently proposed remedies  Notes on Numerical Fluid Mechanics and Multidisciplinary Design, 2016, v. 131, p.3-21.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Martinez-Lera P, Kucukcoskun K, Tournour M, Shur M, Travin A",
+        "Title": " Hybrid aeroacoustic computations for flows in ducts with single and tandem diaphragms  AIAA Paper, AIAA-2016-2794, 12 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Shur M, Strelets M, Travin A, Christophe J, Kucukcoskun K, Schram C, Sack S, Abom M",
+        "Title": " Effect of inlet distortions on ducted fan noise  AIAA Paper, AIAA-2016-2819, 24pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Shur M, Spalart P.R, Strelets M",
+        "Title": " Jet noise computation based on enhanced DES formulations accelerating the RANS-to-LES transition in free shear layers  Int. J. of Aeroacoustics, 2016, vol. 15, no. 6-7, pp.595-613.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Belyaev K.V, Garbaruk A.V, Shur M.L, Strelets M.Kh, Spalart P.R",
+        "Title": " Experience of Direct Numerical Simulation of Turbulence on Supercomputers  Communications in Computer and Information Science. 2016.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Беляев К.В, Гарбарук А.В, Стрелец M.Х, Шур M.Л, Spalart P.R",
+        "Title": " Опыт прямого численного моделирования турбулентности на суперкомпьютерах  Труды международной конференции “Суперкомпьютерные дни в России 2016”, Москва, 2016. С.357-364.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Современные подходы к моделированию турбулентности: учеб. Пособие СПб: Изд-во Политехн. ун-та, 2016. - 233 с.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Mockett, C, Fuchs, M, Garbaruk, A,Thiele, F, Shur, M, Strelets, M, Travin, A, Spalart, P",
+        "Title": " Two non-zonal approaches to accelerate RANS to LES transition of free shear layers in DES  Notes on Numerical Fluid Mechanics. 2015. Т. 130. С. 187-201.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Prieto, A, Spalart, P, Shur, M, Strelets, M, Travin, A",
+        "Title": " Experimental and Numerical Studies of Flow in a Duct with a Diaphragm  Notes on Numerical Fluid Mechanics. 2015. Т. 130. С. 469-479.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Strelets M, Shur M, Travin A, Spalart P",
+        "Title": " R. The Delay of RANS-to-LES Transition in Hybrid RANS-LES Approaches and Some Recently Proposed Remedies  Notes on Numerical Fluid Mechanics. 2015. Т. 131. С. 3-21.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Travin A.K",
+        "Title": " An enhanced version of DES with rapid transition from RANS to LES in separated flows  Flow Turbulence Combustion, 2015, v. 95, no. 4, p. 709-737.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Spalart P.R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Direct Simulation and RANS Modelling of a Vortex Generator Flow  Flow Turbulence Combustion, 2015, v. 95, no. 2, p. 335-350.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Shur M.L, Strelets M.K, Travin A.K, Spalart P.R",
+        "Title": " Evaluation of Vortex Generators for Separation Control in a Transcritical Cylinder Flow  AIAA Journal, 2015, v. 53, no. 10, p. 2967-2977.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Prieto A, Spalart P, Shur M, Strelets M, Travin A",
+        "Title": " Experimental and Numerical Studies of Flow in a Duct with a Diaphragm  Proceedings of 5th Symposium on Hybrid RANS-LES Methods (HRLM5). 19-21 March 2014, TEXAS A&M University, College Station, Houston, USA. 15 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Mockett C, Fuchs M, Garbaruk A, Shur M, Spalart P, Strelets M, Thiele F, Travin A",
+        "Title": " Two non-zonal approaches to accelerate RANS to LES transition of free shear layers in DES  Proceedings of 5th Symposium on Hybrid RANS-LES Methods (HRLM5). 19-21 March 2014, TEXAS A&M University, College Station, Houston, USA. 15 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Spalart P.R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Direct simulation and RANS modelling of a vortex generator flow  Proceedings of 10th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM10). 17-19 September, 2014, Maribella, Spain (ed. Rodi W.). 8 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Garbaruk A, Shur M, Spalart P.R, Strelets M",
+        "Title": " Jet noise computation based on enhanced DES formulations accelerating RANS-TO-LES transition in free shear layers  Proceedings of the Third International Workshop “Computational Experiment in Aeroacoustics” Sept.24-27, 2014, Svetlogorsk, Russia, P.123-127.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Kopiev V.F, Chernyshev S.A, Garbaruk A.V, Strelets M.Kh, Shur M.L",
+        "Title": " Large scale structures in subsonic tone excited jet and their diagnostics in experiment and in numerical simulations  Proceedings of the Third International Workshop “Computational Experiment in Aeroacoustics” Sept.24-27, 2014, Svetlogorsk, Russia, P.108-112.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.K, Travin A.K",
+        "Title": " Synthetic Turbulence Generators for RANS-LES Interfaces in Zonal Simulations of Aerodynamic and Aeroacoustic Problems  Flow, Turbulence and Combustion. - 2014. - Vol.93. - Issue 1. - P.63-92.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Гарбарук А.В, Спаларт Ф.Р, Стрелец М.Х, Шур М.Л",
+        "Title": " Расчет аэродинамики и шума при обтекании тандема цилиндров  Математическое моделирование. - 2014. - Т.26. - №6. - С.119-136.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Shur M.L, Strelets M.Kh, Travin A.K, Spalart P.R",
+        "Title": " Generation of Turbulent inflow conditions for aeroacoustics  Proceedings of \"Accurate and efficient aeroacoustic prediction approaches for airframe noise\", von Karman Intitute for Fluid Dynamics, 2013, 33 p.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Шур М.Л, Гарбарук А.В, Стрелец М.Х, Кравченко С.В, Spalart P.R",
+        "Title": " Вычислительная система для расчета шума сложных струй на основе метода моделирования крупных вихрей (LES)  В сборнике \"Современные научные проблемы и технологии в гражданской авиации. 20 лет сотрудничества ученых России и компании Боинг (1993-2013)\". М.: Наука, 2013, 300 с. С.64-71.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Стрелец М. Х, Шур М. Л, Травин А.К, Гарбарук А. В. Суперкомпьютерные технологии: новая эра в моделировании турбулентности / В сборнике \"Суперкомпьютерные технологии в науке, образовании и промышленности\" / Под редакцией В.А.Садовничего, Г.И.Савина, Вл.В.Воеводина. -М.: Издательство Московского университета, 2012.-232 с, ил, стр",
+        "Title": " 55–62.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Spalart, P.R, Shur, M.L, Strelets, M. Kh, Travin A.K",
+        "Title": " Sensitivity of Landing-Gear Noise Predictions by Large-Eddy Simulation to Numerics and Resolution  AIAA Paper 2012-1174.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Viswanathan, K, Spalart, P. R, Czech, M. J, Garbaruk, A, Shur, M",
+        "Title": " Tailored Nozzles for Jet Plume Control and Noise Reduction  AIAA Journal, 50(10), 2115–2134.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Гарбарук А. В, Стрелец М. Х, Шур М",
+        "Title": " Л. Моделирование турбулентности в расчетах сложных течений. Изд-во Политехн. ун-та. 88 стр.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Shur M.L, Garbaruk A.V, Kravchenko S, Spalart P.R, Strelets M.K. LES-based numerical system for noise prediction in complex jets / In: Computational Fluid Dynamics 2010. Ed.: A.Kuzmin. - Springer-Verlag Berlin Heidelberg, 2011, 954p, pp",
+        "Title": " 163-168. (скачать)",
+        "Url": "http://www.mendeley.com/download/public/3096621/3859363862/9b91aa62b65071c0bfcb9282831a4d4501afdcd2/dl.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Shur M.L, Spalart P. R, Strelets M.Kh",
+        "Title": " LES-based evaluation of a microjet noise reduction concept in static and flight conditions  Journal of Sound and Vibration, 2011, vol. 330, pp. 4083-4097.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Shur M.L, Spalart P. R, Strelets M.Kh, Travin A.K",
+        "Title": " A rapid and accurate switch from RANS to LES in boundary layers using an overlap region  Flow, Turbulence and Combustion, 2011, vol. 86, No. 2, pp. 179-206. (скачать)",
+        "Url": "http://www.springerlink.com/content/g48713h3w94763gx/fulltext.pdf"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " LES-based noise prediction for unexpanded jets shocked jets in static and flight conditions  AIAA Journal, 2011, v.49, No.9, pp. 2000-2017.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Spalart P. R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Initial noise predictions for rudimentary landing gear  Journal of Sound and Vibration, 2011, vol. 330, pp. 4180-4195. (скачать)",
+        "Url": "http://www.sciencedirect.com/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0022460X11001921&_acct=C000228598&_version=1&_userid=10&_ts=1324712453&md5=685ed9880e62ff7ef4494d304ff5146b"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Viswanathan K, Spalart P.R, Czech M.J, Garbaruk A.V, Shur M.L",
+        "Title": " tailored nozzles for jet plume control and noise reduction  AIAA Paper, AIAA-2011-2788, 2011 (34 pp.)",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Шур М.Л, Спаларт Ф.Р, Стрелец М.Х",
+        "Title": " Расчетная оценка эффективности инжекции микро-струй для снижения шума выхлопных струй авиационных двигателей  Математическое моделирование, 2011, т.23, №7 (17 стр.)",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Balakrishnan R, Garbaruk A, Shur M.L, Spalart P, Strelets M",
+        "Title": " DDES and IDDES of tandem cylinders flow  Trilateral Russian-French-German workshop \"Computational experiment in aeroacoustics\", Svetlogorsk, September 22-25, 2010. M.: Maks Press, 2010, p.10-12. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6638.pdf"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R, Balakrishnan R",
+        "Title": " DDES and IDDES of tandem cylinders  In: CD ROM Proceedings of the AIAA-NASA Workshop on Benchmark Problems for Airframe Noise Computations - I (BANC-I). June 10-11, 2010, Stockholm, Sweden, 12 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R, Balakrishnan R",
+        "Title": " DDES and IDDES of tandem cylinders. Report ANL-1026, Argonne National Laboratory, Leadership Computing Facility Division, Sept. 2010. 16 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Shur M.L, Spalart P. R, Strelets M.Kh",
+        "Title": " LES-based evaluation of a microjet noise reduction concept in static and flight conditions  Procedia Engineering, 2010, Vol. 6, pp. 44-53. (скачать)",
+        "Url": "http://www.sciencedirect.com/science?_ob=MiamiImageURL&_cid=278653&_user=10&_pii=S1877705810005527&_check=y&_origin=&_coverDate=31-Dec-2010&view=c&wchp=dGLzVlt-zSkWA&md5=704ffc181fb3c012cfbe4078884f0cdc/1-s2.0-S1877705810005527-main.pdf"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Shur M.L, Spalart P. R, Strelets M.Kh, Travin A.K",
+        "Title": " A rapid and accurate switch from RANS to LES in boundary layers using an overlap region  Flow, Turbulence and Combustion, DOI 10.1007s10494-010-9309-9 (Published online 21 October 2010), 28 pp. (скачать)",
+        "Url": "http://www.springerlink.com/content/g48713h3w94763gx/"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " LES-based noise prediction for shocked jets in static and flight conditions  AIAA Paper, AIAA 2010-3840, 2010, 21 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " LES-based noise prediction for single and dual shocked jets in static and flight conditions  Trilateral Russian-French-German workshop \"Computational experiment in aeroacoustics\", Svetlogorsk, September 22-25, 2010. M.: Maks Press, 2010, p.101-104.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Spalart P. R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Delayed DES of rudimentary landing gear  In: CD ROM Proceedings of the AIAA-NASA Workshop on Benchmark Problems for Airframe Noise Computations - I (BANC-I). June 10-11, 2010, Stockholm, Sweden, 21 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Spalart P. R, Shur M.L, Strelets M.Kh, Travin A.K. Initial RANS and DDES of a rudimentary landing gear. In: Peng, S.-H, Doerffer, P, Haase, W",
+        "Title": " (eds) \"Progress in Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 111. Springer, 2010, pp. 101-110. (скачать)",
+        "Url": "http://www.springerlink.com/content/6k337v2m71h56105/"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Spalart P. R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Towards noise prediction for rudimentary landing gear  Procedia Engineering, 2010, Vol. 6, pp. 283-292.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Spalart P.R, Travin A.K, Shur M.L, Strelets M.Kh",
+        "Title": " Initial noise predictions for open rotors using first principles  AIAA Paper, AIAA 2010-3793, 2010, 9 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Копьев В.Ф, Шур М.Л",
+        "Title": " Азимутальные компоненты звукового поля турбулентной струи: Результаты измерений и их использование для валидации современных методов расчета шума  Ученые записки ЦАГИ, 2010, т. 41, N1, с. 5-12.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Leicher S, Mockett C, Spalart P, Shur M.L, Strelets M.Kh, Thiele F",
+        "Title": " Evaluation of time sample and span size effects in DES of nominally 2D airfoils beyond stall  Proceedings of Third Symposium on Hybrid RANS-LES Methods, 10-12 June 2009, Gdansk, Poland (19 pages).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " DES and its modifications and enhancements. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 19-32.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " NACA0021 at 60 deg. incidence. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 127-139. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6685.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Supersonic base flow. In: Haase W, Braza M, Revell A (eds) \"DESider - A European Effort on Hybrid RANS-LES Modelling\". Notes on Numerical Fluid Mechanics and Multidisciplinary Design, Vol. 103. Springer, 2009, pp. 197-206. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6686.pdf"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Spalart P. R, Shur M.L, Strelets M.Kh, Travin A.K",
+        "Title": " Initial RANS and DDES of a rudimentary landing gear  Proceedings of Third Symposium on Hybrid RANS-LES Methods, 10-12 June 2009, Gdansk, Poland (10 pages).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Spalart P.R, Shur M.L",
+        "Title": " Variants of the Ffowcs Williams - Hawkings equation and their coupling with simulations of hot jets  International Journal of Aeroacoustics, 2009, v.8, No. 5, pp. 477-492.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Spalart P.R, Shur M.L, Strelets M.Kh",
+        "Title": " Added sound sources in jets; theory and simulation  International Journal of Aeroacoustics, 2009, v.8, No. 6, pp. 511-534.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " Noise prediction for increasingly complex jets. Part I: methods and tests. In the book: Jet Aeroacoustics (G. Ramesh editor), 147-181, Multi-Science Publishing Co LTD.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " Noise prediction for increasingly complex jets. Part II: applications. In the book: Jet Aeroacoustics (G. Ramesh editor), 183-203, Multi-Science Publishing Co LTD.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Analysis of jet noise reduction concepts by large-eddy simulation. In the book: Jet Aeoacoustics (G. Ramesh editor), 205-249, Multi-Science Publishing Co LTD.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Travin A.K",
+        "Title": " A hybrid RANS-LES approach with delayed-DES and wall-modelled LES capabilities  International Journal of Heat and fluid Flow, 2008, v.29, 29, pp. 1638-1649.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Viswanathan K, Shur M, Spalart P. R, Strelets M",
+        "Title": " Flow and noise predictions for single and dual-stream beveled nozzles  AIAA Journal, 2008, v.46, No.3, pp.601-626.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Analysis of jet-noise-reduction concepts by large-eddy simulation  Int. Journal of Aeroacoustics, 2007, v6, No.3, pp.243-285. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6681.pdf"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Spalart P.R, Shur M.L, Strelets M.Kh",
+        "Title": " Identification of sound sources in Large-Eddy Simulations of jets  AIAA Paper-2007-3616,13th AIAACEAS Aeroacoustic Conference, Rome, Italy, May 2007 (25 pp.)",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Viswanathan K, Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " Comparisons between experiment and Large-Eddy Simulation for jet noise  AIAA Journal, 2007, v.45, No.8, pp.1952-1966.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Шур М.Л, Спаларт Ф.Р, Стрелец М.Х",
+        "Title": " Расчет шума сложных струй на основе первых принципов  Математическое моделирование, 2007, т. 27, N 7, с. 5-26.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Brusniak, L, Shur M.L, Spalart P.R",
+        "Title": " Phased array imaging of jet noise sources in a Large-Eddy Simulation  AIAA Paper-2006-2444,12th AIAACEAS Aeroacoustic Conference, Cambridge, MA, 2006.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Garbaruk A, Magidov D, Shur M, Strelets M, Travin A",
+        "Title": " Contribution by SPTU: support of partners' efforts directed to implementation of DES Technology. In: Notes on Numerical Fluid Mechanics and Multidisciplinary Design. V.94. \"FLOMANIA - A European Initiative on Flow Physics Modelling\", W.Haase, B.Aupoix, U.Bunge, D.Schwamborn (eds.). Springer-Verlag, Berlin, Heidelberg, 2006, pp. 101-108.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Perrin R, Braza M, Cid E, Cazin S, Sevrain A, Strelets M, Shur M, Hoarau Y, Barthet A, Harran G, Moradei F",
+        "Title": " 3D Circular Cylinder. In: Notes on Numerical Fluid Mechanics and Multidisciplinary Design. V.94. \"FLOMANIA - A European Initiative on Flow Physics Modelling\", W.Haase, B.Aupoix, U.Bunge, D.Schwamborn (eds.). Springer-Verlag, Berlin, Heidelberg, 2006, pp. 299-312.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Garbaruk A.V",
+        "Title": " Further steps in LES-based noise prediction for complex jets  AIAA Paper-2006-0485, 44th Aerospace Sciences Meeting and Exhibit, Reno, NV, 2006. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6675.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Spalart P.R, Deck S, Shur M.L, Squires K.D, Strelets M.Kh, Travin A",
+        "Title": " A new version of Detached-eddy Simulation, resistant to ambiguous grid densities  Theoretical and Computational Fluid Dynamics, 2006, v. 20, No. 3, pp. 181-195.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Travin A.K, Shur M.L, Spalart P.R, Strelets M.Kh. Improvement of delayed Detached-Eddy Simulation for LES with wall modelling / In: CD-ROM Proc. of European Conference on Computational Fluid Dynamics, ECCOMAS CFD-2006, P.Wesseling, E.Onate, J.Periaux (Eds.), the Netherlands, 5-8 Sept, 2006",
+        "Title": " 22 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Viswanathan K, Shur M.L, Spalart P.R, Strelets M.Kh",
+        "Title": " Computation of flow and noise of round and bevelled nozzles  AIAA Paper-2006-2445,12th AIAACEAS Aeroacoustic Conference, Cambridge, MA, 2006.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Гарбарук А.В, Спаларт Ф.Р, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Численное моделирование управления отрывом с помощью механических и струйных вихрегенераторов  Математическое моделирование, 2006. Т. 18, N3, С. 55-68. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6676.pdf"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Шур М.Л, Гарбарук А.В",
+        "Title": " Расчет аэродинамики и шума турбулентных струй, истекающих из двухконтурных сопел с нормальным и косым срезом, на основе метода моделирования крупных вихрей  Материалы VI международной конференции по неравновесным процессам в соплах и струях, Санкт-Петербург, 26 июня - 1 июля 2006 г. С. 347-349.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Travin A",
+        "Title": " Detached-eddy simulation of a linear compressor cascade with tip gap and moving wall  Proceedings of symposium on hybrid RANS-LES methods, Stockholm, 14-15 July, 2005 (eds. W.Haase, S.-H.Peng). (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6673.pdf"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Shur M.L, Spalart P.S, Squires, K.D, Strelets M.Kh, Travin A",
+        "Title": " Three dimensionality in Reynolds-Averaged Navier-Stokes solutions around two-dimensional geometries  AIAA Journal, Vol.43, No.6, 2005, pp.1230-1242.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Shur M.L, Spalart P.S, Strelets M.Kh",
+        "Title": " Noise prediction for increasingly complex jets, Part I: Methods and tests  International J. of Aeroacoustics, Vol. 4, No. 3+4, 2005, pp.213-246.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Shur M.L, Spalart P.S, Strelets M.Kh",
+        "Title": " Noise prediction for increasingly complex jets, Part II: Applications  International J. of Aeroacoustics, Vol. 4, No. 3+4, 2005, pp.247-266.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Shur M.L, Spalart P.S, Strelets M.Kh",
+        "Title": " Numerical approach to the aeroacoustics of complex jet flows: methodology, tests, and applications  CD-ROM Proc. of the 1st European Conference for Aero-space Sciencies (EUCASS), Moscow, July 4-7, 2005, 7pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Viswanathan, K, Shur M.L, Spalart P.S, Strelets M.Kh",
+        "Title": " Numerical prediction of noise from round and beveled nozzles  CD-ROM Proc. of Euromech Colloquium 467: \"Turbulent Flow and Noise Generation\", Marseille, France, July 18-20, 2005, 4pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Shur M, Strelets M, Travin A",
+        "Title": " High-Order Implicit Multi-Block Navier-Stokes Code: Ten-years experience of application to RANSDESLESDNS of turbulent flows - Invited lecture  7th Symposium on Overset Composite Grids and Solution Technology, October 5-7, 2004, Huntington Beach, USA. (скачать)",
+        "Url": "http://www.arl.hpc.mil/events/Overset2004"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Travin A, Shur M, Spalart P, Strelets M. On URANS solutions with LES like behavior / In: Congress on Computational Methods in Applied Sciences and Engineering ECCOMAS 2004, P. Neittaanmaki, T.Rossi, K.Majava, and O.Pironneau (eds.). Jyvaskyla, Finland, 24-28 July 2004. Book of Abstracts, vol.2, p.549. Full text (20pp.)- CDROM Proc, vol.2.",
+        "Title": " vol.2.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Стрелец М.Х, Травин А.К, Шур М.Л, Спаларт Ф.Р",
+        "Title": " Метод моделирования отсоединенных вихрей для расчета отрывных турбулентных течений: предпосылки, основная идея и примеры применения  Научно-технические ведомости N 2 (36). Издательство Политехнического университета. Санкт-Петербург, 2004. Стр. 22-33.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Garbaruk A, Shur M, Strelets M, Spalart P.R. numerical study of wind-tunnel walls effects on transonic airfoil flow // AIAA J, 2003, v.41, No.6, pp",
+        "Title": " 1046-1054. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6665.pdf"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Shur M, Spalart P.R, Strelets M.Kh",
+        "Title": " Noise prediction for increasingly complex jets  In: Computational Aeroacoustics: From Acoustic Sources Modeling to Far-Field Radiated Noise Predictions, Proceedings of EUROMECH Colloquium 449, December 9-12, 2003, Chamonix, France, 12p.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Travin A.K",
+        "Title": " Towards the Prediction of Noise from Jet Engines  International J. Heat and Fluid Flow, 2003, v. 24, pp.551-561.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Гарбарук А.В, Стрелец М.Х, Шур М.Л",
+        "Title": " Расчет трехмерного турбулентного течения в \"S\" образном канале прямоугольного сечения  Теплофизика высоких температур, 2003. т. 41, N1, стр.1-8. (скачать)",
+        "Url": "http://agarbaruk.professorjournal.ru/c/document_library/get_file?p_l_id=213135&folderId=213180&name=DLFE-6667.pdf"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Crouch J, Garbaruk A, Shur M, Strelets M",
+        "Title": " Predicting buffet onset from temporal instability of steady RANS solutions  Bulletin of the American Physical Society, 2002, vol. 47, N. 10, p. 68.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Shur M.L, Spalart P.R, Strelets M.Kh, Travin A.K",
+        "Title": " Towards the prediction of noise from jet engines  Proc. of the 5-th Int. Symp. on Engineering Turbulence Modeling and Experiments, September 2002, 6p.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Travin A, Shur M, Strelets M, Spalart P.R",
+        "Title": " Physical and numerical upgrades in the Detached-Eddy Simulation of complex turbulent flows  Fluid Mechanics and its Applications, Vol.65. Advances in LES of Complex Flows, R.Friederich and W.Rodi (editors)  Proc. of EUROMECH Colloquium 412. Kluwer Academic Publishers, Dordrecht-Boston-London, 2002, pp. 239-245.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Применение метода моделирования отсоединенных вихрей для расчета гидродинамики и теплообмена в отрывных потоках  Труды Третьей Российской национальной конференции по теплообмену. Том 2. - Москва: Издательство МЭИ, 2002. - с.273-276.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Спаларт Ф.Р, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Моделирование взаимодействия вихревой пары с поверхностью земли  Известия РАН. МЖГ, 2001, N6, стр. 20-32.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Спаларт Ф.Р, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Моделирование турбулентного вихревого следа за механизированным крылом  Известия РАН. МЖГ, 2001, N5, стр. 2-9.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2000",
+        "Authors": "Travin A, Shur M, Strelets M, Spalart P",
+        "Title": " Detached-Eddy Simulations Past a circular cylinder  Flow, Turbulence and Combustion, 1999, vol. 63, pp.293-313.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2000",
+        "Authors": "Travin A, Shur M, Strelets M, Spalart P.R",
+        "Title": " Physical and numerical upgrades in the detached-eddy simulation of complex turbulent flows  In: 412 Euromech Colloquium on LES of complex transitional and turbulent flows, Abstracts, Munich, Germany, October 4-6, 2000, P. 87-93.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1999",
+        "Authors": "Shur M, Spalart P. R, Strelets M, Travin A",
+        "Title": " Detached-eddy simulation of an airfoil at high angle of attack  In: Proc. of 4th Int. Symp. on Engineering Turbulence Modelling and Measurements. 1999, pp. 669-678.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Shur M, Strelets M, Travin A, Spalart P.R",
+        "Title": " Turbulence modelling in rotating and curved channels: assessment of the Spalart-Shur correction term  AIAA-Paper 98-0325, 1998, pp.1-16.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Shur M, Strelets M, Travin A, Spalart P.R",
+        "Title": " Two numerical studies of trailing vortices  AIAA-Paper 98-0595, 1998, pp.1-25.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Спаларт Ф, Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Спаларт Ф. Расчет гидродинамики и теплообмена в переходном отрывном пузыре на плоской поверхности  Труды 2-ой Российской национальной конференции по теплообмену, том 2, Москва, Изд. МЭИ, с.240-243.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Стрелец М.Х, Шур М.Л",
+        "Title": " Численное исследование гидродинамики и тепломассообмена в трубчатых ректорах химического газофазного осаждения  Труды 2-ой Российской национальной конференции по теплообмену, том 3, Москва, Изд. МЭИ, с.281-288.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1997",
+        "Authors": "Spalart P.R, Shur M.L",
+        "Title": " On the sensitization of turbulence models to rotation and curvature  Aerospace Science and Technology, 1997, No.5, pp.297-302.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1997",
+        "Authors": "Бассина И.А, Ломакин С.А, Никулин Д.А, Стрелец М.Х, Шур М.Л",
+        "Title": " Оценка применимости современных моделей турбулентности с одним и двумя уравнениями для расчета естественно-конвективных течений  Теплофизика высоких температур. 1997. Т.35, N6.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1997",
+        "Authors": "Головачев Ю.П, Колешко С.Б, Шур М.Л",
+        "Title": " Численные методы решения уравнений гидрогазодинамики. Учебное пособие. С.-Петербург, Изд-во СПбГТУ. 1997. 81с.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1997",
+        "Authors": "Стрелец М.Х, Травин А.К, Шур М.Л",
+        "Title": " Сравнение возможностей дифференциальных моделей турбулентности с одним и двумя уравнениями при расчете течений с отрывом и присоединением. Трансзвуковое обтекание профиля.  Теплофизика высоких температур. 1997. Т.35, N2, С.110-121.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1996",
+        "Authors": "Shur M, Spalart P, Strelets M, Travin A. Navier-Stokes simulation of shedding turbulent flow past a circular cylinder and a cylinder with backward splitter plate // Computational Fluid Dynamics '96. Ed. by J.-A.Desideri, C.Hirsch, P.Le Tallec, M.Pandolfi and J.Periaux. John Wiley & Sons Publ, 1996; P.676-682.",
+        "Title": " 1996; P.676-682.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1996",
+        "Authors": "Shur M, Strelets M, Travin A, Zaikov L. Comparative study of one- and two-equation turbulence models for incompressible and transonic flows with separation and reattachment // Engineering Turbulence Modelling and Experiments 3. Ed. by W.Rodi and G.Bergeles. Elsevier Publ, 1996; P.697-706.",
+        "Title": " 1996; P.697-706.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1996",
+        "Authors": "Spalart P.R, Shur M",
+        "Title": " On the sensitization of turbulence models to rotation and curvature  La Recherche Aerospatiale. 1996, V.3, N4, P.465-474.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1996",
+        "Authors": "Зайков Л.А, Стрелец М.Х, Шур М.Л",
+        "Title": " Сравнение возможностей дифференциальных моделей турбулентности с одним и с двумя уравнениями при расчете течений с отрывом и присоединением. 1. Течение в каналах с обратным уступом  Теплофизика высоких температур. 1996, т.34, N5, с.724-736.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1996",
+        "Authors": "Зайков Л.А, Стрелец М.Х, Шур М.Л",
+        "Title": " Сравнение возможностей дифференциальных моделей турбулентности с одним и с двумя уравнениями при расчете течений с отрывом и присоединением. 11. Течение в канале с прямым уступом  Теплофизика высоких температур. 1996, т.34, N6, с.896-902.",
+        "Url": "Not url"
+    }
+]

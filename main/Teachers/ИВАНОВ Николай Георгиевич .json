@@ -1,0 +1,896 @@
+[
+    {
+        "Year": "2022",
+        "Authors": "Ivanov N, Zasimova M, Stepasheva E, Kudryavtseva V",
+        "Title": " CFD modeling of a self-oscillatory airflow regime in the test ventilated room with plane supply opening  E3S Web of Conferences, Vol 356, 04020. 2022. 4 p. DOI: 10.1051e3sconf202235604020. (скачать)\r\n",
+        "Url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2022/23/e3sconf_roomvent2022_04020/e3sconf_roomvent2022_04020.html "
+    },
+    {
+        "Year": "2022",
+        "Authors": "Zasimova M, Ris V, Ivanov N",
+        "Title": " CFD modelling of a pulsed jet formed during an idealized isolated cough  E3S Web of Conferences, Vol 356, 05024. 2022. 4 p. DOI: 10.1051e3sconf202235605024. (скачать)\r\n",
+        "Url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2022/23/e3sconf_roomvent2022_05024/e3sconf_roomvent2022_05024.html"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Hurnik M, Ivanov N, Zasimova M, Popiolek Z",
+        "Title": " Local and gross parameters of air distribution in a room with a sidewall jet: CFD validation based on benchmark test  Building and Environment, Vol. 207, Part B, 2022, 108509. ISSN 0360-1323. DOI: 10.1016j.buildenv.2021.108509. (скачать)\r\n",
+        "Url": "https://www.sciencedirect.com/science/article/pii/S0360132321009045"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Podmarkova A.D, Zasimova M.A, Ivanov N.G, Ris V.V, Abramov A.G",
+        "Title": " Supercomputer modelling of human respiration using virtual thermal manikin under test conditions  Lobachevskii Journal of Mathematics, 2022, Vol. 43, No. 10, pp. 2877-2886. DOI: 10.1134S1995080222130364. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Иванов Н.Г, Засимова М.А, Подмаркова А.Д, Марков Д",
+        "Title": " Экспериментально-расчетное исследование локальных неоднородностей воздухораспределения в климатической камере при наличии теплового манекена  Материалы Восьмой Российской национальной конференции по теплообмену (Москва, 17-22 октября 2022 г.): в 2 т. Т.1. – М.: Издательство МЭИ, 2022. – С. 106-107. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Подмаркова А.Д, Засимова М.А, Иванов Н.Г, Рис В.В",
+        "Title": " Численное моделирование респираторного струйного течения  Материалы Восьмой Российской национальной конференции по теплообмену (Москва, 17-22 октября 2022 г.): в 2 т. Т.1. – М.: Издательство МЭИ, 2022. – С. 108-110. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Засимова М.А, Иванов Н.Г, Рис В.В",
+        "Title": " URANS и LES моделирование начальной стадии распространения каплесодержащей воздушной струи, характерной для острых респираторных явлений  Материалы Восьмой Российской национальной конференции по теплообмену (Москва, 17-22 октября 2022 г.): в 2 т. Т.1. – М.: Издательство МЭИ, 2022. – С. 435-438. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Подмаркова А.Д, Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Численное моделирование воздухораспределения в климатической камере  Неделя науки ФизМех: сборник статей Всероссийской научной конференции, 4–9 апреля 2022 г. – СПб.: ПОЛИТЕХ-ПРЕСС, 2022. ISBN 978-5-7422-7904-4.– с.288-291. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Засимова М.А, Подмаркова А.Д, Маринова А.А, Иванов Н.Г",
+        "Title": " Численное моделирование турбулентного течения и теплообмена при обтекании сидящего теплового манекена в модельном помещении с перемешивающей вентиляцией  Научно-технические ведомости СПбГПУ. Физико-математические науки. 2022. Т. 15. № 3. С. 111–131. DOI: 10.18721JPM.15309. (скачать)\r\n",
+        "Url": "https://physmath.spbstu.ru/article/2022.57.9/"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Иванов Н.Г, Засимова М.А, Кудрявцева В.В, Степашева Е.Д",
+        "Title": " Стационарные и автоколебательные режимы истечения плоской воздушной струи в ограниченное пространство: перспективы управления теплоотдачей  XVI Минский международный форум по тепло- и массообмену. Тезисы докладов и сообщений. Дополнительный выпуск. – Минск.: Институт тепло- и массообмена имени А. В. Лыкова НАН Беларуси, 2022, с. 19-23. ISBN 978-985-7138-20-3. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Засимова М.А, Иванов Н.Г, Рис В.В",
+        "Title": " Нестационарная диффузия вирусных частиц в импульсной струе, формируемой в процессе кашля  XVI Минский международный форум по тепло- и массообмену. Тезисы докладов и сообщений. Дополнительный выпуск. – Минск.: Институт тепло- и массообмена имени А. В. Лыкова НАН Беларуси, 2022, с. 251-255. ISBN 978-985-7138-20-3. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Подмаркова А.Д, Засимова М.А, Иванов Н.Г",
+        "Title": " Анализ сложного теплообмена модели человека с окружающей средой в условиях перемешивающей вентиляции  XVI Минский международный форум по тепло- и массообмену. Тезисы докладов и сообщений. Дополнительный выпуск. – Минск.: Институт тепло- и массообмена имени А. В. Лыкова НАН Беларуси, 2022, с. 272-275. ISBN 978-985-7138-20-3. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2022",
+        "Authors": "Степашева Е.Д, Засимова М.А, Подмаркова А.Д, Иванов Н.Г. Вихреразрешающее моделирование автоколебаний плоской воздушной струи, распространяющейся в ограниченном пространстве / XXVI Всероссийский семинар с международным участием по струйным, отрывным и нестационарным течениям: Материалы докладов. Санкт-Петербург, 27 июня – 1 июля 2022 года. – СПб.: Балт. гос. техн. ун-т, 2022, с",
+        "Title": " 175-176. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Hurnik M, Ivanov N, Zasimova M, Popiolek Z",
+        "Title": " Gross and integral parameters of air velocity distribution in rooms used to validate CFD calculation results  In: Proc. of 15th ROOMVENT Conference: Energy efficient ventilation for healthy future buildings, Virtual Conference starting on February 15th, 2021. – 4 p. ISBN 978-8-8946-1230-1. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Hurnik M, Ivanov N, Zasimova M, Popiolek Z",
+        "Title": " Local and gross parameters of air distribution in a room with a sidewall jet: CFD validation based on benchmark test  Building and Environment, Vol. 207, Part B, 2022, 108509. ISSN 0360-1323. https:doi.org10.1016j.buildenv.2021.108509. (скачать)\n",
+        "Url": "https://www.sciencedirect.com/science/article/pii/S0360132321009045"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Evgueni M. Smirnov, Denis S. TelnovNumerical Modeling of Node 2 Rackbay Crew Quarters Exhausts and Intakes Airflow Interaction  In: Proc. of the 50th International Conference on Environmental Systems, 12-14 July 2021, Virtual Event. 2021. 9 p. (скачать)\n",
+        "Url": "https://ttu-ir.tdl.org/bitstream/handle/2346/87032/ICES-2021-1.pdf?sequence=1&isAllowed=y"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Ivanov N, Podmarkova A, Ris V, Tschur N, Zasimova M",
+        "Title": " Control of Heat Removal from Multi-Row Plain Tube Banks Typical for Subsea Coolers  In: 2021 6th International Symposium on Environment-Friendly Energies and Applications (EFEA), 2021, pp. 1-6, doi: 10.1109EFEA49713.2021.9406225. (скачать)\n",
+        "Url": "https://ieeexplore.ieee.org/document/9406225 "
+    },
+    {
+        "Year": "2021",
+        "Authors": "Markov D, Stankov P, Simova I, Velichkova R, Angelova R.A, Ivanov N",
+        "Title": " Draught Rate Assessment in a Ventilated Classroom Based on Eight Hours Long Monitoring of Indoor Thermal Environment Parameters  In: 2021 6th International Symposium on Environment-Friendly Energies and Applications (EFEA), 2021, pp. 1-5, DOI: 10.1109EFEA49713.2021.9406257. (скачать)\n",
+        "Url": "https://ieeexplore.ieee.org/document/9406257 "
+    },
+    {
+        "Year": "2021",
+        "Authors": "Markov D, Stankov P, Simova I, Velichkova R, Angelova R.А, Ivanov N",
+        "Title": " Draught Rate Assessment in a Ventilated Classroom, Based on One Hour-Long Records of Air Velocity and Air Temperature  In: 2021 6th International Symposium on Environment-Friendly Energies and Applications (EFEA), 2021, pp. 1-5, doi: 10.1109EFEA49713.2021.9406244. (скачать)\n",
+        "Url": "https://ieeexplore.ieee.org/document/9406244 "
+    },
+    {
+        "Year": "2021",
+        "Authors": "Smirnov E.M, Ivanov N.G, Kolesnik E.V",
+        "Title": " Numerical Simulation of Turbulence Sharply Arising in a Free Convection Vertical-Plate Boundary Layer behind a Row of Rectangular Protuberances  AIP Conference Proceedings 2351, 020006 (2021), DOI: 10.10635.0052920, 4 p. (скачать)\n",
+        "Url": "https://aip.scitation.org/doi/pdf/10.1063/5.0052920"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Stepasheva E.D, Zasimova M.A, Ivanov N.G.Thermal manikin shape influence on airflow and heat transfer in the model room with displacement ventilation // St",
+        "Title": " Petersburg Polytechnical State University Journal. Physics and Mathematics. 14 (3) (2021) 94–111. DOI: 10.18721JPM.14307. (скачать)\n",
+        "Url": "https://physmath.spbstu.ru/en/article/2021.53.7/ "
+    },
+    {
+        "Year": "2021",
+        "Authors": "Zasimova M, Ivanov N, Smirnov E, Markov D, Stankov P",
+        "Title": " Air distribution in a classroom at various supply diffuser operation modes  In: 2021 6th International Symposium on Environment-Friendly Energies and Applications (EFEA), 2021, pp. 1-6, doi: 10.1109EFEA49713.2021.9406232. (скачать)\n",
+        "Url": "https://ieeexplore.ieee.org/document/9406232 "
+    },
+    {
+        "Year": "2021",
+        "Authors": "Zasimova М, Ivanov N, Smirnov E, Markov D, Stankov P, Angelova R",
+        "Title": " Numerical Simulation of Jet Interaction in a Test Ventilated Classroom: Flow Structure Sensitivity to Supply Diffuser Operation Mode  In: Proc. of 15th ROOMVENT Conference: Energy efficient ventilation for healthy future buildings, Virtual Conference starting on February 15th, 2021. – 4 p. ISBN 978-8-8946-1230-1. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Исследование автоколебаний воздушного потока в многоструйной системе вентиляции  IX Поляховские чтения: Материалы международной научной конференции по механике. 9–12 марта 2021 г Санкт-Петербург, СПбГУ. 2021. ISBN 978-5-9651-1331-6. C. 204-206.  \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Кудрявцева В.В, Засимова М.А, Иванов Н.Г",
+        "Title": " Численное исследование режимов истечения плоской воздушной струи в прямоугольную полость  IX Поляховские чтения: Материалы международной научной конференции по механике. 9–12 марта 2021 г Санкт-Петербург, СПбГУ. 2021. ISBN 978-5-9651-1331-6. C. 213-215.  \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2021",
+        "Authors": "Степашева Е.Д, Засимова М.А, Иванов Н.Г",
+        "Title": " Влияние формы теплового манекена на течение и теплообмен в модельном помещении с вытесняющей вентиляцией  Научно-технические ведомости СПбГПУ. Физико-математические науки. 2021. Т. 14. № 3. С. 94–111. DOI: 10.18721JPM.14307. (скачать)\n",
+        "Url": "https://physmath.spbstu.ru/userfiles/files/articles/2021/3/07_94-111_14(3)2021.pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Ivanov N.G, Podmarkova A.D, Zasimova M.A, Markov D",
+        "Title": " Numerical simulation of pollutant dispersion in a test ventilated room  Journal of Physics: Conference Series. (Proceedings of the Third Conference \"Problems of Thermal Physics and Power Engineering\", Moscow, Russia). Vol. 1683, 2020, 022075, 8 p. DOI: 10.10881742-659616832022075 (скачать)\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1683/2/022075"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Kolesnik E.V, Smirnovsky A.A, Tschur N.A, Ivanov N.G, Smirnov E.M",
+        "Title": " Experience in using a synthetic turbulence generator for eddy-resolving simulation of the vertical-plate free convection boundary layer  Journal of Physics: Conference Series, Vol. 1565 (2020) 012105 6 p. (DOI:10.10881742-659615651012105; Proceedings of the All-Russian scientific conference with international participation «Thermophysics and Power Engineering in Academic Centers» (TPEAC-2019), 21-23 October 2019, St. Petersburg, Russia) (скачать)\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1565/1/012105"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Markov D, Ivanov N, Pichurov G, Zasimova M, Stankov P, Smirnov E, Simova I, Ris V, Angelova R, Velichkova R",
+        "Title": " On the procedure of draught rate assessment in indoor spaces  Applied Sciences. – 2020. – Vol. 10. 5036 DOI 10.3390app10155036 (IF 2019 2.474) (скачать)\r\n",
+        "Url": "https://www.mdpi.com/2076-3417/10/15/5036/pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Smirnov E.M, Levchenya A.M, Ivanov N.G, Smirnovsky A.A",
+        "Title": " Experience in DNS of turbulent free convection in air along an isothermal vertical plate  Journal of Physics: Conference Series, Vol. 1675 (2020) 012077 5 p. (DOI: 10.10881742-659616751012077; Proceedings of the 5th All-Russian Scientific Conference Thermophysics and Physical Hydrodynamics with the School for Young Scientists (TPH-2020) 13-20 September 2020, Yalta, Crimea) (скачать)\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1675/1/012077"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Zasimova M.A, Ivanov N.G, Podmarkova A.D, Ris V.V, Tshur N.A",
+        "Title": " Effect of the bounding walls configuration on draft water flow through staggered tube bank  Journal of Physics: Conference Series, Vol. 1565 (2020) 012041 6 p. (DOI: 10.10881742-659615651012041; Proceedings of the All-Russian scientific conference with international participation «Thermophysics and Power Engineering in Academic Centers» (TPEAC-2019), 21-23 October 2019, St. Petersburg, Russia) (скачать) \r\n\r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1742-6596/1565/1/012041"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Абрамов А.Г, Засимова М.А, Иванов Н.Г",
+        "Title": " Исследовательские проекты в области механики сплошных сред. Пакеты прикладных программ в научных исследованиях: учеб. пособие. – СПб.: ПОЛИТЕХ-ПРЕСС, 2020. – 229 с. ISBN 978-5-7422-6859-8. doi 10.18720SPBPU2id20-57 (скачать)\r\n",
+        "Url": "https://elib.spbstu.ru/dl/2/id20-57.pdf/info"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Абрамов А.Г, Иванов Н.Г, Рис В.В",
+        "Title": " Течения жидкости в полях объемных сил. Ламинарные режимы и устойчивость свободноконвективных течений: учеб. пособие. – СПб.: ПОЛИТЕХ-ПРЕСС, 2020. – 114 с. ISBN 978-5-7422-7100-0. DOI: 10.18720SPBPU2i20-271. (скачать)\r\n",
+        "Url": "https://aero.spbstu.ru/attachments/article/81/abramov-ivanov-ris-free_convection.pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Численное моделирование циркуляции воздуха в помещении при подаче из плоской щели. I. Отработка применения вихреразрешающего подхода с использованием периодической постановки  Научно-технические ведомости СПбГПУ. Физико-математические науки. – 2020. – Т. 13. – № 3. – С. 56–74. DOI: 10.18721JPM.13305 (скачать)\r\n",
+        "Url": "https://physmath.spbstu.ru/userfiles/files/articles/2020/3/05-Zasimova.pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Численное моделирование циркуляции воздуха в помещении при подаче из плоской щели. II. LES-расчеты для помещения конечной ширины  Научно-технические ведомости СПбГПУ. Физико-математические науки. – 2020. – Т. 13. – № 3. – С. 75–92. DOI: 10.18721JPM.13306 (скачать)\r\n",
+        "Url": "https://physmath.spbstu.ru/userfiles/files/articles/2020/3/06_75-92_13(3)2020.pdf"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Иванов Н.Г, Подмаркова А.Д, Засимова М.А, Марков Д. Численное исследование распространения примеси в тестовом вентилируемом помещении / Материалы III Международной конференции «Современные проблемы теплофизики и энергетики», 19-23 октября 2020 г, Санкт-Петербург",
+        "Title": " – М.: Издательство МЭИ, 2020. – с. 115-116. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2020",
+        "Authors": "Смирнов Е.М, Иванов Н.Г, Панов Д.О, Смирнов П.Е",
+        "Title": " Численное моделирование ламинарно-турбулентного перехода в свободно-конвективном пограничном слое при возмущающем действии прямоугольных препятствий  Пермские гидродинамические научные чтения: материалы всероссийской конференции с международным участием, посвященной памяти профессоров Г.З. Гершуни, Е.М. Жуховицкого и Д.В. Любимова. Пермский государственный национальный исследовательский университет. – Пермь, 2020. – С. 361-366. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Ivanov N.G, Zasimova M.A, Smirnov E.M, Markov D",
+        "Title": " Evaluation of mean velocity and mean speed for test ventilated room from RANS and LES CFD modeling  E3S Web of Conferences, Vol 85, 02004. 2019. 7 p. DOI: 10.1051e3sconf20198502004 (скачать)                                                                                                        \r\n",
+        "Url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2019/11/e3sconf_enviro2018_02004/e3sconf_enviro2018_02004.html"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Ivanov N.G, Smirnov E.M, Son C.H, Telnov D.S",
+        "Title": " CFD Evaluation of Directional Variation Effects of the Air Supply Diffuser for the International Space Station Cabin Atmosphere  E3S Web of Conferences, Vol 111, 01034. 2019. 6 p. DOI: 10.1051e3sconf201911101034 (скачать)                                                                              \r\n",
+        "Url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2019/37/e3sconf_clima2019_01034/e3sconf_clima2019_01034.html"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Ivanov N.G, Zasimova M.A, Smirnov E.M, Abramov A.G, Markov D, Stankov P",
+        "Title": " Unsteady RANS Simulation of Air Distribution in a Ventilated Classroom with Numerous Jets  E3S Web of Conferences, Vol 111, 02010. 2019. 8 p. DOI: 10.1051e3sconf201911102010 (скачать)                                                                                       \r\n",
+        "Url": "https://www.e3s-conferences.org/articles/e3sconf/abs/2019/37/e3sconf_clima2019_02010/e3sconf_clima2019_02010.html"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Evgueni M. Smirnov, Denis S. Telnov. Numerical simulation of toilet system air flow characteristics in the International Space Station  In: Proc. of the 49th International Conference on Environmental Systems, July 7-11, 2019, Boston, Massachusetts. 2019. 16 p. (скачать)                                                                                                                        \r\n",
+        "Url": "https://ttu-ir.tdl.org/handle/2346/84785"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Markov D, Stankov P, Ivanov N, Velichkova R, Angelova R, Simova I, Pichurov G, Zasimova M, Smirnov E",
+        "Title": " On the Energy Efficiency of Ventilation Systems  Proceedings of XXIV Scientific Conference with International Participation FPEPM 2019 (17-20 September 2019, Sozopol, Bulgaria) – Technical University of Sofia, 2019. – P. 204-212. ISSN 1314-5371. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/publication/337012225_On_the_Energy_Efficiency_of_Ventilation_Systems"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Ivanov N, Zasimova M, Smirnov E, Markov D, Velichkova R, Simova I",
+        "Title": " Numerical Simulation of Air Distribution in a Ventilated Classroom  Proceedings of XXIV Scientific Conference with International Participation FPEPM 2019 (17-20 September 2019, Sozopol, Bulgaria) – Technical University of Sofia, 2019. – P. 213-220. ISSN 1314-5371. (скачать)\r\n",
+        "Url": "https://www.researchgate.net/publication/337011909_Numerical_Simulation_of_Air_Distribution_in_a_Ventilated_Classroom"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Mijorski S.G, Markov D.G, Pichurov G.T, Stankov P, Ivanov N.G, Simova I.S",
+        "Title": " CFD based design of a ventilated space  IOP Conf. Series: Materials Science and Engineering, Vol. 618 (2019) 012049. 8 p. DOI: 10.10881757-899X6181012049. (скачать)                                                                                                                                                      \r\n",
+        "Url": "https://iopscience.iop.org/article/10.1088/1757-899X/618/1/012049"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Ivanov N, Ris V, Tschur N, Zasimova M",
+        "Title": " Effect of gas flow direction on a passive subsea cooler effectiveness  Computational Thermal Sciences. – 2019. – Vol. 11, № 1-2. – P.1-16. (скачать)                     ",
+        "Url": "http://www.dl.begellhouse.com/ru/journals/648192910890cd0e,7344e09e13d9db41,6b7c67241399efe6.html"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Засимова М.А, Иванов Н.Г",
+        "Title": " Особенности циркуляции воздуха в помещении при боковой струйной подаче  XII Всероссийский съезд по фундаментальным проблемам теоретической и прикладной механики: сборник трудов в 4-х томах. – Уфа: РИЦ БашГУ, 2019. – с.549-551.\r\n                                                                                                                                                          \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Засимова М.А, Иванов Н.Г, Подмаркова А.Д, Рис В.В, Щур Н.А",
+        "Title": " Естественная тяга воды через гладкотрубный пучок при различной конфигурации элементов ограждения  Материалы всероссийской научной конференции с международным участием: XI Семинар ВУЗов по теплофизике и энергетике (21-23 октября 2019 г.). СПб. ПОЛИТЕХ-ПРЕСС, 2019, ISBN 978-5-7422-6703-4. с.158-159.                                                                                                                    \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Иванов Н.Г, Левченя А.М",
+        "Title": " Вопросы построения вычислительного практикума по решению многомерных задач гидрогазодинамики и теплофизики  Материалы всероссийской научной конференции с международным участием: XI Семинар ВУЗов по теплофизике и энергетике (21-23 октября 2019 г.). СПб. ПОЛИТЕХ-ПРЕСС, 2019, ISBN 978-5-7422-6703-4. с.162-163.                                                                                                                                                \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2019",
+        "Authors": "Колесник Е.В, Смирновский А.А, Щур Н.А, Иванов Н.Г, Смирнов Е.М",
+        "Title": " Опыт применения генератора синтетической турбулентности при расчетах свободноконвективного пограничного слоя на вертикальной пластине вихреразрешающим методом  Материалы всероссийской научной конференции с международным участием: XI Семинар ВУЗов по теплофизике и энергетике (21-23 октября 2019 г.). СПб. ПОЛИТЕХ-ПРЕСС, 2019, ISBN 978-5-7422-6703-4. с.186-187.                                                 \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Levchenya A.M, Smirnov E.M, Zhukovskaya V.D, Ivanov N.G",
+        "Title": " Numerical study of 3D turbulent flow and local heat transfer near a cylinder introduced into the freeconvection boundary layer on a vertical plate  In: Proc. of the 16th International Heat Transfer Conference, IHTC-16 August 10-15, 2018, Beijing, China, Paper IHTC16-22916. DOI: 10.1615IHTC16.hte.022916. 2018. p.5493-5500.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ivanov N.G, Zasimova M.A",
+        "Title": " Large Eddy Simulation of Airflow in a Room with a Sidewall Jet: Comparison with Benchmark Test Data for Occupied Zone  In: Proc. of Roomvent & Ventilation 2018: Excellent Indoor Climate and High Performing Ventilation (Ed. by Risto Kosonen, Mervi Ahola and Jarkko Narvanne), June 2-5, 2018, Aalto University, Espoo, Finland. – SIY Indoor Air Information Oy, Helsinki, Finland, 2018. – P. 319-324. ISBN 978-952-5236-48-4.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ivanov N.G, Ris V.V, Smirnov P.E, Tschur N.A, Zasimova M.A",
+        "Title": " Effect of the number of vertical rows on heat transfer from a staggered tube bank of subsea cooler  In: Proc. of the 16th International Heat Transfer Conference, IHTC-16 August 10-15, 2018, Beijing, China, Paper IHTC16-23638. DOI: 10.1615IHTC16.her.023638. 2018. p.4625-4632.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Zasimova M.A, Ivanov N.G",
+        "Title": " Numerical simulation of air distribution in a room with a sidewall jet under benchmark test conditions  AIP Conference Proceedings 1959, 050033 (2018); DOI: 10.10631.5034661, 8 p.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Denis S. Telnov, Evgueni M. Smirnov CFD Study of Airflow Characteristics in the U.S. Laboratory and Node 2 with IMV Bypass Reconfiguration  In: Proc. of the 48th International Conference on Environmental Systems, July 8-12, 2018, Albuquerque, New Mexico. 2018. 10 p. (скачать)\r\n",
+        "Url": "https://ttu-ir.tdl.org/ttu-ir/handle/2346/74061"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Denis S. Telnov, Evgueni M. Smirnov CFD-Based Evaluation of Inlet Diffuser Cluttering Effects on the International Space Station Cabin Atmosphere  In: Proc. of the 48th International Conference on Environmental Systems, July 8-12, 2018, Albuquerque, New Mexico. 2018. 8 p. (скачать)\r\n",
+        "Url": "https://ttu-ir.tdl.org/ttu-ir/handle/2346/74062"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ivanov N.G, Zasimova M.A",
+        "Title": " Large Eddy Simulation of airflow in a test ventilated room  Journal of Physics: Conference Series, Vol. 1038 (2018) 012136. 6 p. (DOI:10.10881742-659610381012136; Proceedings of the International Conference PhysicA.SPb2017, 24-26 October 2017, St. Petersburg, Russia. (скачать)\r\n",
+        "Url": "http://iopscience.iop.org/article/10.1088/1742-6596/1038/1/012136/meta"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ivanov N, Ris V, Tschur N, Zasimova M",
+        "Title": " Effect of gas flow direction on passive subsea cooler effectiveness  Computational Thermal Sciences. – 2019. – Vol. 11, № 1-2. – P.1-16. (скачать)\r\n",
+        "Url": "https://goo.gl/2UT6Hg"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Zasimova M.A, Ivanov N.G, Ris V.V, Schur N.A",
+        "Title": " Heat Transfer in a Staggered Bare-Tube Bank Immersed in a Vast Water Pool  High Temperature. – 2018. – Vol. 56. – No. 5. – P. 711–718. (скачать) \r\n",
+        "Url": "https://link.springer.com/article/10.1134%2FS0018151X18040211"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ivanov N.G, Zasimova M.A",
+        "Title": " Mean air velocity correction for thermal comfort calculation: assessment of velocity-to-speed conversion procedures using Large Eddy Simulation data  Journal of Physics: Conference Series, Vol. 1135 (2018) 012106. 6 p. (DOI:10.10881742-659611351012106, Proceedings of the International Conference PhysicA.SPb2018, 23-25 October 2018, St. Petersburg, Russia)\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Иванов Н.Г, Рис В.В, Щур Н.А. Влияние числа вертикальных рядов на течение и теплообмен в трубных пучках глубоководных теплообменных аппаратов. / Труды Седьмой Российской национальной конференции по теплообмену (РНКТ-7): в 3 томах (22-26 октября 2018 г, Москва)",
+        "Title": " Т. 1. – М.: Издательский дом МЭИ, 2018, с. 327-330.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Численное моделирование вентиляционного течения в тестовом аудиторном помещении  Неделя науки СПбПУ: материалы научной конференции с международным участием. Институт прикладной математики и механики. – СПб.: Политех-пресс, 2018, с. 20-22.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Подмаркова А.Д, Иванов Н.Г",
+        "Title": " Численное моделирование распространения примеси в вентилируемом помещении  Неделя науки СПбПУ: материалы научной конференции с международным участием. Институт прикладной математики и механики. – СПб.: Политех-пресс, 2018, с. 41-43.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Ярославцева Н.А, Иванов Н.Г, Кириллов А.И",
+        "Title": " Оценка эффективности применения вихревых ячеек для управления отрывом турбулентного потока в осерадиальном диффузоре  Неделя науки СПбПУ: материалы научной конференции с международным участием. Институт прикладной математики и механики. – СПб.: Политех-пресс, 2018, с. 58-60.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Засимова М.А, Иванов Н.Г, Марков Д",
+        "Title": " Численное исследование воздухораспределения в аудиторном помещении с множественными приточными устройствами  Неделя науки СПбПУ: материалы научного форума с международным участием. Лучшие доклады. – СПб.: Политех-пресс, 2018, с. 200-204.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Засимова М.А, Иванов Н.Г, Рис В.В, Щур Н.А",
+        "Title": " Теплопередача в гладкотрубном шахматном пучке, погруженном в обширный водный бассейн  Теплофизика высоких температур. – 2018. – Том 56. – № 5. – С. 1-11.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2018",
+        "Authors": "Иванов Н.Г, Кириллов А.И, Смирнов Е.М, Ярославцева Н.А",
+        "Title": " Вихревая ячейка как средство повышения эффективности кольцевого осерадиального диффузора  Научно-технические ведомости СПбПУ. Естественные и инженерные науки. 2018. Т. 24. № 4. С. 97–105. DOI: 10.18721JEST.24410.\r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Ivanov N, Ris V, Tschur N, Zasimova M. Effect of gas pipe flow direction on a passive subsea cooler effectiveness: results of 3D conjugate heat transfer simulation / In: Proc. of 7th International Symposium on Advances in Computational Heat Transfer (CHT-17). Ed. by: Yogesh Jaluria and Oronzio Manca. 28 May – 1 June 2017, Napoli, Italy. Begell House Inc, 2017",
+        "Title": " 13 p. ISBN 978-1-56700-461-8. (скачать)\r\n",
+        "Url": "https://goo.gl/sdhP2S"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Denis S. Telnov, Evgueni M. Smirnov. Numerical Study of Ammonia Leak Propagation Characteristics in Node 2  In: Proc. of the 47th International Conference on Environmental Systems, July 16-20, 2017, Charleston, South Carolina. 2016. 11 p. (скачать)\r\n",
+        "Url": "https://ttu-ir.tdl.org/ttu-ir/handle/2346/72983"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Yaroslavtseva N.A, Ivanov N.G",
+        "Title": " Numerical simulation of natural convection in wedge-shaped domain with isothermal free surface  Journal of Physics: Conference Series, Vol. 929 (2017) 012097. 6 p. DOI:10.10881742-65969291012097; Proceedings of the International Conference PhysicA.SPb2016, 1-3 November 2016, St. Petersburg, Russia. (скачать)\r\n",
+        "Url": "http://iopscience.iop.org/article/10.1088/1742-6596/929/1/012097/meta"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Kunaeva A.I, Ivanov N.G",
+        "Title": " Numerical simulation of multicellular natural convection in air-filled vertical cavities  Journal of Physics: Conference Series, Vol. 929 (2017) 012109. 6 p. DOI:10.10881742-65969291012109; Proceedings of the International Conference PhysicA.SPb2016, 1-3 November 2016, St. Petersburg, Russia. (скачать)\r\n",
+        "Url": "http://iopscience.iop.org/article/10.1088/1742-6596/929/1/012109/meta"
+    },
+    {
+        "Year": "2017",
+        "Authors": "Засимова М.А, Иванов Н.Г",
+        "Title": " Численное исследование вентиляционного течения при боковой струйной подаче на основе метода моделирования крупных вихрей  Неделя науки СПбПУ: материалы научной конференции с международным участием. Институт прикладной математики и механики. – СПб.: Изд-во Политехн. ун-та, 2017. – С.219-222. \r\n",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Son Chang H, Ivanov Nikolay G, Telnov Denis S, Smirnov Evgueni M",
+        "Title": " CFD Modeling of Oxygen Generation System Operation Effect on the Rack Air Composition  In: Proc. of the 46th International Conference on Environmental Systems, July 10-14, 2016, Vienna, Austria. 2016. 13 p. (скачать)",
+        "Url": "https://ttu-ir.tdl.org/ttu-ir/handle/2346/67628"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Ivanov N, Ris V, Tschur N, Zasimova M",
+        "Title": " Numerical simulation of conjugate heat transfer in a tube bank of a subsea cooler based on buoyancy effect  Journal of Physics: Conference Series, Vol. 745 (2016) 032058. 8 p.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Засимова М.А, Иванов Н.Г, Щур Н.А",
+        "Title": " Имитационное моделирование работы глубоководного теплообменного аппарата в условиях, приближенных к реальным  Неделя науки СПбПУ: материалы научного форума с международным участием. Лучшие доклады. - СПб.: Изд-во Политехн. ун-та, 2016. - C. 203-208. ISBN 978-5-7422-5170-5.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Засимова М.А, Иванов Н.Г, Рис В.В, Щур Н.А. Численное моделирование сопряженного теплообмена при смешанной конвекции в гладкотрубных пучках глубоководных теплообменных аппаратов / Труды XV Минского международного форума по тепло- и массообмену (23-26 мая 2016 г, Минск, Беларусь) [CD ROM]",
+        "Title": " - Минск: Изд-во Института тепло- и массообмена им. А.В.Лыкова НАН Беларуси, 2016. - 12 с. ISBN 978-985-7138-05-0.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2016",
+        "Authors": "Засимова М.А, Иванов Н.Г, Щур Н.А",
+        "Title": " Выбор схемы движения теплоносителей для подводного газоохладителя на основе численного моделирования в сопряженной постановке  Неделя науки СПбПУ: материалы научной конференции с международным участием. Лучшие доклады. - СПб.: Изд-во Политехн. ун-та, 2016. - C. 163-167. ISBN 978-5-7422-5577-22.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Ivanov Nikolay, Ris Vladimir, Tschur Nikolay, Yurkina Nina",
+        "Title": " Numerical simulation of buoyancy-induced flow through a staggered tube bank of subsea cooler  In: Advances in Heat Transfer. Proceedings of the 7th Baltic Heat Transfer Conference (BHTC 2015), Tallinn, Estonia, August 24-26, 2015. Dmitri Neshumayev, Bengt Sunden (Eds.). Tallinn University of Technology, 2015. P. 23-28. ISBN 978-9949-23-817-0.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Ivanov Nikolay, Smirnov Sergey",
+        "Title": " Numerical simulation of turbulent conjugate free convection in horizontal low-Pr fluid layer  In: Advances in Heat Transfer. Proceedings of the 7th Baltic Heat Transfer Conference (BHTC 2015), Tallinn, Estonia, August 24-26, 2015. Dmitri Neshumayev, Bengt Sunden (Eds.). Tallinn University of Technology, 2015. P. 29-34. ISBN 978-9949-23-817-0.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Son Chang H, Ivanov Nikolay G, Telnov Denis S, Smirnov Evgueni M",
+        "Title": " Numerical Modeling of a Rack Ventilation Characteristics for the International Space Station on Orbit Operation  In: Proc. of the 45th International Conference on Environmental Systems, July 12-16, 2015, Bellevue, Washington, USA. 2015. pp. 240-245.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Колесник Е.В, Иванов Н.Г, Левченя А.М. Численное моделирование трехмерного турбулентного течения в круглой трубе с поворотом на 90 градусов / Проблемы газодинамики и тепломассообмена в энергетических установках: Труды XX Школы-семинара молодых ученых и специалистов под руководством академика РАН А.И. Леонтьева (24-29 мая 2015 г, г",
+        "Title": " Звенигород). – М.: Издательский дом МЭИ, 2015. – с. 59-62. ISBN 978-5-383-00941-3.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2015",
+        "Authors": "Ибен У, Иванов Н.Г, Исаенко И.И, Шмидт А.А",
+        "Title": " Эйлерово-лагранжево описание кавитирующего течения  Письма в Журнал технической физики. - 2015. - Том 41. Вып. 24. - С.1-8. (скачать)",
+        "Url": "http://journals.ioffe.ru/pjtf/2015/24/p1-8.pdf"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Denis S. Telnov, Evgueni M. Smirnov CFD Modeling of Water Mist Portable Fire Extinguisher Discharge Characteristics in the International Space Station  In: Proc. of the 44th International Conference on Environmental Systems. July 13-17, 2014, Tucson, Arizona, USA. - 2014. - P.871-880.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Nikolay G",
+        "Title": " Ivanov, Vladimir V. Ris, Evgueni M. Smirnov, Nikolay A. Tschur. Numerical simulation of 3D flow effect on heat transfer from a tube bank of subsea cooler  In: Proc. Of the 15th International Heat Transfer Conference, IHTC-15 August 10-15, 2014, Kyoto, Japan, Paper IHTC15-9766. ISBN 978-1-56700-421-2. - 2014. - 12 pages.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2014",
+        "Authors": "Иванов Н.Г, Рис В.В, Щур Н.А. Исследование краевых эффектов при смешанной конвекции в гладкотрубных пучках глубоководных теплообменных аппаратов / Труды VI Российской национальной конференции по теплообмену (РНКТ-6) (27-31 октября 2014 г, Москва) [CD ROM]",
+        "Title": " - Москва, МЭИ, 2014. - 4 с.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Абрамов А.Г, Иванов Н.Г, Ковалев Г.А, Смирнов Е.М",
+        "Title": " Численное исследование тепломассопереноса в паровоздушной среде с конденсацией на ряде вертикальных трубок  Современная наука: исследования, идеи, результаты, технологии. - Днепропетровск: \"НПВК Триакон\". - 2013. - №1(12). - С. 375-381. (ISSN 2076-6866).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Chang H",
+        "Title": " Son, Nikolay G. Ivanov, Denis S. Telnov, Evgueni M. Smirnov. CFD Modeling of Water Droplet Transport for ISS Hygiene Activity Application  AIAA Technical Paper AIAA 2013-3456. 2013. 8 p. (DOI: 10.25146.2013-3456).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2013",
+        "Authors": "Иванов Н.Г, Рис В.В, Щур Н.А",
+        "Title": " Теплоотдача в гладкотрубных пучках глубоководных теплообменных аппаратов  Современная наука: исследования, идеи, результаты, технологии, 2013. – №1 (12) – с. 382-388. (ISSN 2076-6866).",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Son C.H, Ivanov N.G, Telnov D.S, Smirnov E.M",
+        "Title": " Numerical Study of Ammonia Leak and Dispersion in the International Space Station  AIAA Technical Paper AIAA 2012-3582. 2012. pp. 392-401.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Son C.H, Ivanov N.G, Telnov D.S, Smirnov E.M",
+        "Title": " CFD Ventilation Study for the Human Powered Centrifuge at the International Space Station  AIAA Technical Paper AIAA 2012-3583. 2012. pp.761-769.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2012",
+        "Authors": "Иванов Н.Г, Рис В.В, Щур Н.А",
+        "Title": " Численное исследование влияния наложенного горизонтального течения на теплоотдачу в гладкотрубном пучке в условиях пассивного теплосъема за счет естественной конвекции  Тепловые процессы в технике, 2012. – Том 4, №10 – с. 434-441.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Ivanov N.G, Egorov S.V",
+        "Title": " 3D ventilation airflow in a test facility: validation of Reynolds-averaged Navier-Stokes approach application  In: Proc. of the 12th International Conference on Air Distribution in Rooms (Roomvent 2011), June 19-22, 2011, Trondheim, Norway. 8 p. (скачать)",
+        "Url": "http://www.tapironline.no/fil/vis/701"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Ivanov N.G, Telnov D.S, Smirnov E.M, Son C.H",
+        "Title": " Propagation of CO2 field after fire extinguisher discharge: a numerical study  AIAA Technical Paper AIAA 2011-5078. 2011. 8 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Son C.H, Ivanov N.G, Telnov D.S, Smirnov E.M",
+        "Title": " Integrated ventilation modeling for crew quarter airflow  AIAA Technical Paper AIAA 2011-5079. 2011. 11 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2011",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " CFD modeling of International Space Station and visiting spacecraft ventilation: evaluation of design solutions for complex on-orbit operations  In: Proc. of the 12th International Conference on Air Distribution in Rooms (Roomvent 2011), June 19-22, 2011, Trondheim, Norway. 8 p. (скачать)",
+        "Url": "http://www.tapironline.no/fil/vis/700"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Ivanov N.G, Kirillov A.I, Ris V.V, Smirnov E.M",
+        "Title": " Numerical modeling of buoyancy-induced fluid flow and heat transfer in a staggered tube bank  In: Proc. of the International Heat Transfer Conference IHTC14. August 8-13, 2010, Washington, DC, USA. 2010. 7 p. ASME Technical Paper IHTC14-22640.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " CFD analysis for oxygen concentration during respiratory support pack operation  AIAA Technical Paper AIAA 2010-6208. 2010. 9 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " CFD analysis of node 1 ventilation and carbon dioxide transport for the maximum stowage configuration  AIAA Technical Paper AIAA 2010-6207. 2010. 9 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " International Space Station node 3 CFD ventilation modeling for early ingress and nominal operation  AIAA Technical Paper AIAA 2010-6170. 2010. 10 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Иванов Н.Г, Рис В.В, Смирнов Е.М",
+        "Title": " Численное моделирование теплоотдачи в гладкотрубном пучке при определяющем влиянии эффектов плавучести  Труды Пятой Российской национальной конференции по теплообмену. В восьми томах. Том 3. - Москва: Издательский дом МЭИ, 2010. - с 78-81.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2010",
+        "Authors": "Иванов Н.Г, Смирнов П.Е, Лобачев М.П, Овчинников Н.А, Панов Д.О, Рис В.В, Смирнов Е.М",
+        "Title": " Тестирование двухпараметрических низкорейнольдсовых моделей турбулентности применительно к задачам обтекания судов полных обводов. Труды ЦНИИ им. акад. А. Н. Крылова. Вып. 53 (337), Санкт-Петербург, 2010. С. 45-50.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Son C.H, Dunaway B.R, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Analysis of convective heat transfer in the orbiter middeck for the shuttle rescue mission  SAE Technical Paper 2009-01-2550. 2009. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " CFD study of ventilation and carbon dioxide transport for iss node 2 and attached modules  SAE Technical Paper 2009-01-2549. 2009. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " CFD-based procedure for evaluation of ventilation of a suddenly-opened closeout space and its application to the International Space Station  SAE 2008 Transactions. SAE Int. J. Aerosp. 1(1). 2009. P.254-260.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Computational Fluid Dynamics airflow analysis for the waste and hygiene compartment in the International Space Station  SAE 2008 Transactions. Journal of Aerospace. 2009. SAE Int. J. Aerosp. 1(1). 2009. P.247-253.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2009",
+        "Authors": "Son, Ch.H, Ivanov, N.G, Smirnov, E.M, Telnov, D.S",
+        "Title": " CFD study of ventilation and carbon dioxide concentration gradients for the International Space Station living quarters  In: Proc of the 11th ROOMVENT Conference, May 24-27, 2009, Busan, Korea. P.1267-1274.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " A CFD-based procedure for evaluation of ventilation of a suddenly-opened closeout space and its application to the International Space Station  SAE Technical Paper 2008-01-2058. 2008. 7 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2008",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Computational Fluid Dynamics analysis for the waste and hygiene compartment in the International Space Station  SAE Technical Paper 2008-01-2057. 2008. 7 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2007",
+        "Authors": "Ivanov N, Smirnov E, Lacor C",
+        "Title": " Computational Fluid Dynamics analysis of pollutant dispersion in a ventilated atrium  Proc of Roomvent 2007 Conference, June 13-15, 2007, Helsinki, Finland. 9 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Ivanov N, Smirnov E, Lacor C",
+        "Title": " Computational fluid dynamics analysis of pollutant dispersion in a metro carriage  In: Proc of the 17th Air-conditioning and Ventilation Conference 2006, May 17-19, 2006, Prague, Czech Republic. P.117-122.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Smirnov E.M, Ivanov N.G, Telnov D.S, Son C.H",
+        "Title": " CFD modeling of cabin air ventilation in the International Space Station: a comparison of RANS and LES data with test measurements for the Columbus Module  Int. J. of Ventilation. - 2006. - Vol. 5, N 2. - P.219-228.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Son C, Aksamentov V, Smirnov E, Ivanov N, Telnov D",
+        "Title": " CFD modeling for ventilation: a method for Reynolds Averaged Navier-Stokes (RANS) data correlation  In: Proc of the 17th Air-conditioning and Ventilation Conference 2006, May 17-19, 2006, Prague, Czech Republic. P.281-286.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Son C.H, Dunaway B.R, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Analysis of Carbon dioxide concentration in the shuttle orbiter middeck for the Launch on Need (LON) мission  SAE 2005 Transactions. Journal of Aerospace. 2006. P.112-117.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Node 1 with advanced resistive exercise device Computational Fluid Dynamics modeling  SAE 2005 Transactions. Journal of Aerospace. 2006. P.106-111.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2006",
+        "Authors": "Son C.H, Turner E.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Integrated Computational Fluid Dynamics сarbon dioxide concentration study for the International Space Station  SAE 2005 Transactions. Journal of Aerospace. 2006. P.89-94.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Ivanov N.G, Ris V.V, Smirnov E.M, Smirnovskii A.A",
+        "Title": " Numerical simulation of 3D unsteady convection in a rotating annular cavity heated on periphery  In: Proc of the 3rd International Conference on Advanced Computational Methods in Engineering (ACOMEN), 30 May - 2 June 2005, Ghent, Belgium. 9 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Smirnov E.M, Ivanov N.G, Telnov D.S, Son C.H, Aksamentov V.K",
+        "Title": " Computational Fluid Dynamics study of air flow characteristics in the Columbus module  SAE 2004 Transactions. Journal of Aerospace. 2005. P.1155-1163.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Son C.H, Dunaway B.R, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Analysis of Carbon dioxide concentration in the shuttle orbiter middeck for the Launch on Need (LON) Mission.  SAE 2005 Transactions. Journal of Aerospace. P.112-117.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Node 1 with advanced resistive exercise device Computational Fluid Dynamics Modeling  SAE Technical Paper 2005-01-2798. 2005. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Son C.H, Turner E.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Integrated Computational Fluid Dynamics carbon dioxide concentration study for the International Space Station  SAE 2005 Transactions. Journal of Aerospace. P.89-94.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Son C.H, Turner E.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Integrated Computational Fluid Dynamics carbon dioxide concentration study for the International Space Station  SAE Technical Paper 2005-01-2795. 2005. 6 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2005",
+        "Authors": "Turner E.H, Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Air circulation and carbon dioxide concentration study of International Space Station Node 2 with Attached Modules  SAE 2004 Transactions. Journal of Aerospace. 2005. P.1150-1154.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Abramov A.G, Ivanov N.G, Smirnov E.M",
+        "Title": " Numerical analysis of turbulent Rayleigh-Benard convection on the base of large eddy simulation technique  In: Proc. International Conference \"Advanced Problems in Thermal Convection\", Perm, Russia, Publishing of Perm State University, 2004. P. 145-150.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Goriatchev V.D, Ivanov N.G, Ris V.V, Smirnov E.M",
+        "Title": " CFD-analysis of secondary flows and pressure losses in a NASA transonic turbine cascade  In: Modelling Fluid Flow. The State of the Art. Vad, Janos; Lajos, Tamas; Schilling, Rudolf (Eds.). Springer-Verlag, Berlin, 2004. P.311-322.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Smirnov E.M, Abramov A.G, Ivanov N.G, Smirnov P.E, Yakubov S.A. DNS and RANS/LES-computations of complex geometry flows using a parallel multiblock finite-volume code / In: Parallel Computational Fluid Dynamics - Advanced Numerical Methods, Software and Application / Proc. of the Parallel CFD 2003 Conference, May 13-15, 2003, Moscow, Russia, ed. by B. Chetverushkin et al, Elsevier, 2004",
+        "Title": " P.219-226.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Smirnov E.M, Ivanov N.G, Telnov D.S, Son C.H, Aksamentov V.K",
+        "Title": " Computational Fluid Dynamics study of air flow characteristics in the Columbus module  SAE Technical Paper 2004-01-2500. 2004. 8 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Turner E.H, Son C.H, Smirnov E.M, Ivanov N.G, Telnov D.S",
+        "Title": " Air circulation and carbon dioxide concentration study of International Space Station Node 2 with Attached Modules  SAE Technical Paper 2004-01-2498. 2004. 5 pp.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Абрамов А.Г, Зайцев Д.К, Иванов Н.Г, Смирнов П.Е, Якубов С.А",
+        "Title": " Применение параллельных вычислений для моделирования турбулентных течений в областях сложной геометрии  Труды конференции \"Параллельные вычисления в задачах математической физики\", Ростов-на-Дону, РГУ, 2004. с. 132-141.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Смирнов Е.М, Абрамов А.Г, Иванов Н.Г, Корсаков А.Б",
+        "Title": " Опыт численного решения нестационарных задач турбулентной термоконвенции  В кн.: Формирование технической политики инновационных наукоемких технологий: Материалы науч.-практ. конф. и школы-семинара. СПб.: Изд-во Политехн. ун-та, 2004. Стр. 281-287.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2004",
+        "Authors": "Смирнов Е.М, Абрамов А.Г, Иванов Н.Г, Корсаков А.Б",
+        "Title": " Прямое численное моделирование и метод моделирования крупных вихрей в нестационарных задачах турбулентной термоконвенкции  Научно-технические ведомости N 2 (36). Издательство Политехнического университета. Санкт-Петербург, 2004. Стр. 33-47.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Abramov A.G, Ivanov N.G, Korsakov A.B, Smirnov E.M",
+        "Title": " Direct numerical simulation of Si-melt convection and oxygen transport in a CZ-system real geometry crucible  In: Proc. of the 5th International Conference \"Single Crystal Growth and Heat & Mass Transfer\" (ICSC-03). Obninsk, 2003. P.513-521.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Abramov A.G, Ivanov N.G, Smirnov E.M",
+        "Title": " Numerical analysis of turbulent Rayleigh-Benard convection in confined enclosures [электронная публикация]. Flomania\" DES-Workshop, Saint-Petersburg, 2003. (скачать)",
+        "Url": "http://cfd.me.umist.ac.uk/flomania/"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Abramov A.G, Ivanov N.G, Smirnov E.M",
+        "Title": " Numerical study of high-Ra Rayleigh-Benard mercury and water convection in confined enclosures using a hybrid RANSLES technique  In: Heat transfer in unsteady and transitional flows  Proc. of the Eurotherm Seminar 74, March 23-26, 2003, Eindhoven, the Netherlands, ed. by H.C. de Lange and A.A. van Steenhoven, TUE, 2003. P.33-38.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Golovachov Y, Reznikov B, Ivanov M, Kudryavtsev A, Khotyanovsky D, Mazurkevich V, Schmidt A",
+        "Title": " Numerical simulation of a multiphase three-component flow in a supersonic nozzle  AIAA-2003-3494, 36th AIAA Thermophysics Conference, Orlando, Florida, June 23-26, 2003",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Ivanov N.G, A.B. Korsakov, Smirnov E.M, Khodosevitch K.V, Kalaev V.V, Makarov Yu.N, Dornberger E, Virbulis J, von Ammon W",
+        "Title": " Analysis of magnetic field effect on 3D melt flow in CZ Si growth  J. Crystal Growth. - 2003. - Vol. 250. - P.183-188.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Ivanov N.G, Ris V.V, Smirnov E.M, Telnov D.S Numerical simulation of endwall heat transfer in a transonic turbine cascade / Proceedings of the Conference on Modelling Fluid Flow",
+        "Title": " The 12th International Conference on Fluid Flow Technologies, Budapest, 2003. pp. 1121-1128.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Ivanov N.G, Ris V.V, Smirnov E.M, Telnov D.S",
+        "Title": " Numerical simulation of endwall heat transfer in a transonic turbine cascade  In: Proc. of the Conference on Modelling Fluid Flow (CMFF'03). The 12th International Conference on Fluid Flow Technologies. Budapest, Hungary, 2003. P.1121-1128.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2003",
+        "Authors": "Иванов Н.Г, Николаев М.А, Тельнов Д.С",
+        "Title": " Численное моделирование трехмерного течения и теплообмена в трансзвуковой турбинной решетке на основе модели турбулентности Спаларта-Аллмараса Труды XIV школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева \"Проблемы газодинамики и тепломассообмена в энергетических установках\". Том 2. - Москва: Издательство МЭИ, 2003. -с.70-73.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Evstratov I.Yu, Kalaev V.V, Zhmakin A.I, Makarov Yu.N, Abramov A.G, Ivanov N.G, Korsakov A.B, Smirnov E.M, Dornberger E, Virbulis J, Tomzig E, Von Ammon W",
+        "Title": " Numerical study of 3D unsteady melt convection during industrial-scale CZ Si-crystal growth  J. Crystal Growth. - 2002. - Vol. 237-239 (P3). - pp.1757-1761.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Smirnov E.M, Abramov A.G, Ivanov N.G, Korsakov A.B, Zajtsev D.K",
+        "Title": " Numerical analysis of conjugate heat transfer in a melt-crucible model of Czochralski systems: combined Coriolis and MHD effects on time-dependent 3D melt convection  In: Advanced Computational Methods in Heat Transfer VII  Proc. 7th Int. Conf. on Advanced Comp. Methods in Heat Transfer, 2002. Ed. by B. Sunden and C. Brebbia, WIT Press, 2002. pp.107-116.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Иванов Н.Г, Китанин Э.Л, Лебедев М.Е, Рис В.В, Федоров А.Г",
+        "Title": " Смешанная конвекция в вертикальной обогреваемой трубе: расчет и сопоставление с экспериментом  Труды Третьей Российской национальной конференции по теплообмену. Том 3. - Москва: Издательство МЭИ, 2002. - с.79-82.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Иванов Н.Г, Левченя А.М, Рис В.В, Смирнов Е.М",
+        "Title": " Расчет трехмерного течения и теплообмена в экспериментальной модели решетки рабочих лопаток на основе одно- и двухпараметрических моделей турбулентности  Труды Третьей Российской национальной конференции по теплообмену. Том 2. - Москва: Издательство МЭИ, 2002. - с.147-150. (скачать)",
+        "Url": "http://www.hotlinks.ru/private/pap453/"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Иванов Н.Г, Рис В.В, Смирнов Е.М",
+        "Title": " Компьютерное моделирование трехмерного турбулентного течения и теплообмена в газотурбинных решетках  В кн.: Формирование технической политики инновационных наукоемких технологий: Материалы науч.-практ. конф. Т. II. СПб.: Изд-во СПбГПУ, 2002. Стр. 91-97.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2002",
+        "Authors": "Иванов Н.Г, Смирнов Е.М",
+        "Title": " Численное моделирование трехмерной нестационарной конвекции расплава кремния в емкости, типичной для установок метода Чохральского  Инженерно-физический журнал. 2002. - Т.75, N 3. - С.63-69.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Evstratov I.Yu, Kalaev V.V, Nabokov V.N, Zhmakin A.I, Makarov Yu.N, Abramov A.G, Ivanov N.G, Rudinsky E.A, Smirnov E.M, Lowry S.A, Dornberger E, Virbulis J, Tomzig E, Ammon W.v",
+        "Title": " Global model of Czochralski silicon growth to predict oxygen content and thermal fluctuations at the melt-crystal interface  Microelectronic Engineering. - 2001. - Vol. 56. - P.139-142.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Evstratov I.Yu, Kalaev V.V, Zhmakin A.I, Makarov Yu.N, Abramov A.G, Ivanov N.G, Smirnov E.M, Dornberger E, Virbulis J, Tomzig E, Ammon W",
+        "Title": " von. Modeling analysis of unsteady three-dimensional turbulent melt flow during Czochralski growth of Si crystals  J. Crystal Growth. - 2001. - Vol. 230. - P.22-29.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2001",
+        "Authors": "Иванов Н.Г",
+        "Title": " Регулярные волновые структуры во вращающейся кольцевой полости, заполненной водой: численное моделирование в сопоставлении с экспериментом  Труды XIII Школы-семинара молодых ученых и специалистов под руководством акад. РАН А.И. Леонтьева. Том 1. - Москва: Издательство МЭИ, 2001. - с.181-184.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2000",
+        "Authors": "Goryachev V, Ivanov N, Smirnov E",
+        "Title": " Postcomputational visualization of baroclinic wave drift  In: Science and Art Symposium'2000, 3rd Int.Conf. on Flow Interaction of Science and Art, 28.02 -03.03.2000, ETH Zurich, A.Gyr, P.D.Koumoutsakos, U.Burr. (Eds), Kluver Academic Publishers, Dordrecht Boston London, 2000, pp. 211-216.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "2000",
+        "Authors": "Горячев В.Д, Балашов М.Е, Иванов Н.Г, Смирнов Е.М",
+        "Title": " Визуализация в вычислительной гидродинамике  Вестник молодых ученых 4'2000, Cерия: Прикладная математика и механика, c.118.",
+        "Url": "Not url"
+    },
+    {
+        "Year": "1998",
+        "Authors": "Иванов Н.Г, Рудинский Э.А",
+        "Title": " Численное моделирование ламинарной свободной конвекции в областях сложной геометрии при малых числах Прандтля  Вестник молодых ученых, серия технические науки, 1998. - N1 - с. 40-46.",
+        "Url": "Not url"
+    }
+]

@@ -1,0 +1,28 @@
+{% extends 'main/layout.html' %}
+{% load humanize %}
+
+{% block content %}
+
+
+  <header>
+    <h1>{{ teacher }}</h1>
+</header>
+<main>
+
+{% regroup articles by year as year_list %}
+{% for year in year_list %}
+    <h2>{{ year.grouper }}</h2>
+    {% for article in year.list %}
+        <section>
+            <article>
+                <h3>{{ article.title }}</h3>
+                <p>{{ article.content }}</p>
+                <p>Not url</p>
+            </article>
+        </section>
+    {% endfor %}
+{% endfor %}
+</main>
+
+{% endblock %}
+
